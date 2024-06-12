@@ -4,7 +4,7 @@
 <!-- Mirrored from axattechnologies.com/mobile-apps-development by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 27 Feb 2024 10:57:26 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-   <!-- Required meta tags -->
+  
    <meta charset="utf-8">
    <title>IOS & Android Mobile App Development Companies | Mumbai, India</title>
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
