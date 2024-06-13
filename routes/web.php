@@ -110,7 +110,7 @@ Route::get('/hire-dedicated-resource',function(){
     return view('pages.hire-dedicated-resource');
 });
 Route::get('/seo-packages.',function(){
-    return view('pages.seo-packages.');
+    return view('pages.seo-packages');
 });
 Route::get('/seo-search-engine-optimization',function(){
     return view('pages.seo-search-engine-optimization');
