@@ -90,115 +90,115 @@
                                <li>
                                    <div class="row">
                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                           <h3 class="title"><a href="../otsfinal/pages/web&softwaredeve.html">Web & Software
+                                           <h3 class="title"><a href="{{ url('/web&softwaredeve') }}">Web & Software
                                                    Development</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href="/pages/custom-website-development.html"
+                                               <li><a href="{{ url('/customwebsitedevelopment') }}"
                                                        class="subnav_title">Custom Website Development</a></li>
-                                               <li><a href=" /pages/webportals-cms.html" class="subnav_title">Web Portals and
+                                               <li><a href="{{ url('/webportals-cms')}}" class="subnav_title">Web Portals and
                                                        CMS Development</a></li>
-                                               <li><a href=" /pages/ecommerce-development.html"
+                                               <li><a href="{{ url('/ecommerce-development') }}"
                                                        class="subnav_title">ECommerce Website Development</a></li>
-                                               <li><a href=" /pages/modernization.html" class="subnav_title">Website
-                                                       Modernization</a></li>
-                                               <li><a href=" /pages/custom-crm-software-development.html"
+                                               <li><a href=" {{ url('/modernization') }}" class="subnav_title">Website
+                                                       Modernization</a></li>modernization
+                                               <li><a href="{{ url('/custom-crm-software-development') }}"
                                                        class="subnav_title">Custom CRM Software Development</a>
                                                </li>
-                                               <li><a href=" /pages/erp-development.html" class="subnav_title">ERP
+                                               <li><a href="{{ url('/erp-development') }}" class="subnav_title">ERP
                                                        Development</a></li>
-                                               <li><a href=" /pages/custom-software-development.html"
+                                               <li><a href="{{ url('/custom-software-development') }}"
                                                        class="subnav_title">Custom Software Development</a></li>
-                                               <li><a href=" /pages/database-development.html"
+                                               <li><a href="{{ url('/database-development') }}"
                                                        class="subnav_title">Database Development</a></li>
-                                               <li><a href=" /pages/document-management-system-development.html"
+                                               <li><a href="{{ url('/document-management-services') }}"
                                                        class="subnav_title">Document Management System
                                                        Development</a></li>
-                                               <li><a href=" /pages/saas-application-development.html"
+                                               <li><a href="{{ url('/saas-application-development') }}"
                                                        class="subnav_title">SaaS Application Development</a></li>
                                            </ul>
                                        </div>
                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                           <h3 class="title"><a href="#">UI/UX Design</a></h3>
+                                           <h3 class="title"><a href="{{url('/ui-ux-design')}}">UI/UX Design</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href=" /pages/prototypes.html" class="subnav_title">Prototypes</a>
+                                               <li><a href="{{ url('/prototypes') }}" class="subnav_title">Prototypes</a>
                                                </li>
-                                               <li><a href=" /pages/wireframe-design.html" class="subnav_title">Wireframe
+                                               <li><a href="{{ url('/wireframe-design')}}" class="subnav_title">Wireframe
                                                        Design</a></li>
-                                               <li><a href=" /pages/website-design.html" class="subnav_title">Website
+                                               <li><a href="{{url('/website-design')}}" class="subnav_title">Website
                                                        Design</a></li>
-                                               <li><a href=" /pages/mobile-app-design.html" class="subnav_title">Mobile App
+                                               <li><a href=" {{ url('/mobile-app-design') }}" class="subnav_title">Mobile App
                                                        Design</a></li>
-                                               <li><a href=" /pages/graphic-designing.html" class="subnav_title">Graphic
+                                               <li><a href="{{ url('/graphic-designing') }}" class="subnav_title">Graphic
                                                        Design</a></li>
                                            </ul>
                                            <hr class="mt-3 mb-3" />
-                                           <h3 class="title"><a href=" /pages/mobile-apps-development.html">Mobile App
+                                           <h3 class="title"><a href=" {{ url('/mobile-apps-development') }}">Mobile App
                                                    development</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href=" /pages/android-app-development.html"
+                                               <li><a href="{{ url('/android-app-development') }}"
                                                        class="subnav_title">Android app development</a></li>
-                                               <li><a href=" /pages/android-app-development.html" class="subnav_title">iOS
+                                               <li><a href="{{ url('/iphone-app-developer') }}" class="subnav_title">iOS
                                                        app development</a></li>
-                                               <li><a href=" /pages/ipad-app-development.html" class="subnav_title">iPad
+                                               <li><a href=" {{ url('/ipad-app-developer') }}" class="subnav_title">iPad
                                                        app development</a></li>
-                                               <li><a href=" /pages/apple-watch-app-development.html"
+                                               <li><a href="{{ url('/apple-watch-app-development') }}"
                                                        class="subnav_title">Apple Watch App Development</a></li>
                                            </ul>
 
                                        </div>
                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                           <h3 class="title"><a href=" /pages/digital-marketing-services.html">Digital
+                                           <h3 class="title"><a href="{{ url('/digital-marketing-services') }}">Digital
                                                    Marketing Services</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href=" /pages/seo-search-engine-optimization.html"
+                                               <li><a href="{{ url('/seo-search-engin-optimization') }}"
                                                        class="subnav_title">Search Engine Optimisation (SEO)</a>
                                                </li>
 
-                                               <li><a href=" /pages/seo-packages.html" class="subnav_title">SEO
+                                               <li><a href="{{ url('/seo-packages') }}" class="subnav_title">SEO
                                                        Packages</a></li>
                                            </ul>
                                                 <hr class="mt-3 mb-3" />
                                                 <div class="box-icon-link">
-                                                    <a href=" /pages/cloud-solutions.html"><i class="iconentypo-newspaper icon-3x"></i> CLOUD
+                                                    <a href="{{ url('/cloud-solutions') }}"><i class="iconentypo-newspaper icon-3x"></i> CLOUD
                                                         SOLUTIONS</a>
                                                 </div>
                                                 <div class="box-icon-link">
-                                                    <a href=" /pages/augmented-reality.html"><i class="iconentypo-newspaper icon-3x"></i> AUGMENTED
+                                                    <a href="{{ url('/augmented-reality') }}"><i class="iconentypo-newspaper icon-3x"></i> AUGMENTED
                                                         REALITY</a>
                                                 </div>
                                                 <div class="box-icon-link">
-                                                    <a href="/pages/crypto-and-blockchain-development.html"><i class="iconentypo-newspaper icon-3x"></i>BLOCK
+                                                    <a href="{{ url('/blockchain') }}"><i class="iconentypo-newspaper icon-3x"></i>BLOCK
                                                         CHAIN DEVELOPMENT</a>
                                                 </div>
                                                 <div class="box-icon-link">
-                                                    <a href=" /pages/artificial-intelligence-and-machine-learning.html"><i class="iconentypo-newspaper icon-3x"></i> ARTIFICIAL
+                                                    <a href="{{ url('/artificial-intelligence-and-machine-learning') }}"><i class="iconentypo-newspaper icon-3x"></i> ARTIFICIAL
                                                         INTELLIGENCE & MACHINE LEARNING</a>
                                                 </div>
                                             </div>
                                             <div class="col-menu col-lg-3 col-md-4 col-sm-6	">
-                                                <h3 class="title"><a href=" /pages/hire-dedicated-resource.html">HIRE DEDICATED
+                                                <h3 class="title"><a href="{{ url('/hire-dedicated-resource')}}">HIRE DEDICATED
                                                         RESOURCES</a></h3>
                                                 <ul class="sub-menu">
-                                                    <li><a href="/pages/hire-wordpress-developer.html" class="subnav_title">Hire WordPress Developer</a>
+                                                    <li><a href="{{ url('/hire-wordpress-developer') }}"class="subnav_title">Hire WordPress Developer</a>
                                                     </li>
-                                                    <li><a href="/pages/hire-Laravel-developer.html" class="subnav_title">Hire Laravel Developer</a></li>
+                                                    <li><a href="{{url('/hire-Laravel-developer')}}" class="subnav_title">Hire Laravel Developer</a></li>
 
-                                                    <li><a href="/pages/hire-smo-specialist.html" class="subnav_title">Hire SMO
+                                                    <li><a href="{{url('/hire-smo-specialist')}}" class="subnav_title">Hire SMO
                                                             Specialist</a></li>
-                                                    <li><a href="/pages/hire-PHP-devloper.html" class="subnav_title">Hire PHP Developer</a></li>
-                                                    <li><a href="/pages/hire-Python-developer.html" class="subnav_title">Hire Python Developer</a></li>
-                                                    <li><a href="/pages/hire-web-designer.html" class="subnav_title">Hire
+                                                    <li><a href="{{ url('/hire-php-developer')}}" class="subnav_title">Hire PHP Developer</a></li>
+                                                    <li><a href="{{ url('/hire-python-developer')}}" class="subnav_title">Hire Python Developer</a></li>
+                                                    <li><a href="{{ url('/hire-web-designer')}}" class="subnav_title">Hire
                                                             Web Designer</a></li>
 
-                                                    <li><a href="/pages/hire-angular-developer.html" class="subnav_title">Hire Angular Developer</a></li>
-                                                    <li><a href="/pages/hire-android-app-developer.html" class="subnav_title">Hire Android App Developer</a>
+                                                    <li><a href="{{ url('/hire-angular-development')}}" class="subnav_title">Hire Angular Developer</a></li>
+                                                    <li><a href="{{ url('/hire-android-app-developer')}}" class="subnav_title">Hire Android App Developer</a>
                                                     </li>
-                                                    <li><a href="/pages/hire-app-designer.html" class="subnav_title">Hire App
+                                                    <li><a href="{{ url('/hire-app-designer')}}" class="subnav_title">Hire App
                                                             Designer</a></li>
-                                                    <li><a href="/pages/hire-javadeveloper.html" class="subnav_title">Hire Java
+                                                    <li><a href="{{ url('/hire-java-developer')}}" class="subnav_title">Hire Java
                                                             Developer</a></li>
-                                                    <li><a href="/pages/hire-reactjs-developer.html" class="subnav_title">Hire ReactJS Developer</a></li>
-                                                    <li><a href="/pages/hire-ios-app-developer.html" class="subnav_title">Hire
+                                                    <li><a href="{{ url('/hire-reactjs-developer')}}" class="subnav_title">Hire ReactJS Developer</a></li>
+                                                    <li><a href="{{ url('/hire-ios-app-developer')}}" class="subnav_title">Hire
                                                             iOS App Developer</a></li>
 
                                                 </ul>

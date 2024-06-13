@@ -21,14 +21,14 @@
             <div class="col-md-6 col-sm-6">
                 <h3 class="widget-title">Services</h3>
                 <ul class="footer-custom-menu">
-                    <li><a href="../otsfinal/pages/web&softwaredeve.html">Web & Software Development</a></li>
+                    <li><a href="{{ url('/web&softwaredeve') }}">Web & Software Development</a></li>
 
-                    <li><a href="/pages/mobile-apps-development.html">Mobile App Development</a></li>
-                    <li><a href="/pages/digital-marketing-services.html">Digital Marketing Services</a></li>
-                    <li><a href="/pages/cloud-solutions.html">Cloud Solutions</a></li>
-                    <li><a href="/pages/augmented-reality.html">Augmented Reality</a></li>
+                    <li><a href=" {{ url('/mobile-apps-development') }}">Mobile App Development</a></li>
+                    <li><a href="{{ url('/digital-marketing-services') }}">Digital Marketing Services</a></li>
+                    <li><a href="{{ url('/cloud-solutions') }}">Cloud Solutions</a></li>
+                    <li><a href="{{ url('/augmented-reality') }}">Augmented Reality</a></li>
 
-                    <li><a href="/pages/ui-ux-design.html">UI/UX Design</a></li>
+                    <li><a href="{{url('/ui-ux-design')}}">UI/UX Design</a></li>
 
                     <li><a href="#">Sitemap</a></li>
                     <li><a href="https://sites.google.com/view/orianatech-solutions/home" target="_blank">Privacy Policy</a></li>
