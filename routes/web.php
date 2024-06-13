@@ -82,8 +82,8 @@ Route::get('/digital-marketing-services',function(){
     return view('pages.digital-marketing-services');
 });
 
-Route::get('/document-management-services',function(){
-    return view('pages.document-management-services');
+Route::get('/document-management-system-development',function(){
+    return view('pages.document-management-system-development');
 });
 
 Route::get('/ecommerce-development',function(){
@@ -115,19 +115,19 @@ Route::get('/hire-ios-app-developer',function(){
 });
 
 Route::get('/hire-java-developer',function(){
-    return view('pages.hire-java-developer');
+    return view('pages.hire-javadeveloper');
 });
 
 Route::get('/hire-Laravel-developer',function(){
     return view('pages.hire-Laravel-developer');
 });
 
-Route::get('/hire-php-developer',function(){
-    return view('pages.hire-php-developer');
+Route::get('/hire-PHP-devloper',function(){
+    return view('pages.hire-PHP-devloper');
 });
 
-Route::get('/hire-hire-python-developer',function(){
-    return view('pages.hire-python-developer');
+Route::get('/hire-hire-Python-developer',function(){
+    return view('pages.hire-Python-developer');
 });
 
 Route::get('/hire-reactjs-developer',function(){
@@ -146,12 +146,12 @@ Route::get('/hire-wordpress-developer',function(){
     return view('pages.hire-wordpress-developer');
 });
 
-Route::get('/ipad-app-developer',function(){
-    return view('pages.ipad-app-developer');
+Route::get('/ipad-app-development',function(){
+    return view('pages.ipad-app-development');
 });
 
-Route::get('/iphone-app-developer',function(){
-    return view('pages.iphone-app-developer');
+Route::get('/iphone-app-development',function(){
+    return view('pages.iphone-app-development');
 });
 
 Route::get('/mobile-app-design',function(){
@@ -182,16 +182,16 @@ Route::get('/seo-packages',function(){
     return view('pages.seo-packages');
 });
 
-Route::get('/seo-search-engin-optimization',function(){
-    return view('pages.seo-search-engin-optimization');
+Route::get('/seo-search-engine-optimization',function(){
+    return view('pages.seo-search-engine-optimization');
 });
 
 Route::get('/saas-application-development',function(){
     return view('pages.saas-application-development');
 });
 
-Route::get('/hire-angular-development',function(){
-    return view('pages.hire-angular-development');
+Route::get('/hire-angular-developer',function(){
+    return view('pages.hire-angular-developer');
 });
 
 

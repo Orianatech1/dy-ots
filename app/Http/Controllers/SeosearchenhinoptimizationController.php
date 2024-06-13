@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class SeosearchenhinoptimizationController extends Controller
 {
     public function index(){
-        return view('pages.seo-search-engin-optimization');
+        return view('pages.seo-search-engine-optimization');
     }
 }

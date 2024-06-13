@@ -7,7 +7,7 @@
             <div class="header-banner bg-grad has-mask">
                 <div class="ax-inner-banner">
                     <div class="banner-intro">
-                        <h2>Saas application development/h2>
+                        <h2>Saas application development</h2>
                     </div>
                 </div>
             </div>

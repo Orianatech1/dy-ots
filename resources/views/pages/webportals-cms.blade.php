@@ -22,7 +22,7 @@
                         <div class="row">
                             <div class="col-md-20 offset-0.5">
                               <h2 class="h2">CMS and Web Portal Development</h2>
-                                <p style="font-size: 26px; text-align: justify; line-height: 1.5;">
+                                <p style="text-align:justify;">
                                       
                                     CMS (Content Management System) and web portal development involve the creation of digital platforms that facilitate content creation, management, and dissemination, as well as user interaction and engagement.
                                     CMS platforms such as WordPress, Drupal, or Joomla provide users with intuitive interfaces to easily create, edit, and publish content without requiring extensive technical knowledge. These systems typically offer features such as content editing, version control, user management, and workflow automation to streamline content management processes.
@@ -43,43 +43,43 @@
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick" style="font-size: 24px; margin-left: 20%;">
                               
-                                <ul style="list-style: square;">
+                                <ul style="list-style-type:disc;">
                                     <li>
                                         <h4>Complete understanding of your business and providing with the best suggestion of CMS</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                                       
                                     </li>
                                     <li>
                                         <h4>Unique and custom designed website for your business</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                                     
                                     </li>
                                     <li>
                                         <h4>Simple-to-use system with which you can easily add content and manage the website yourself</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p> -->
+                                       
                                     </li>
                                     <li>
                                         <h4>Complete support in every stage of the website</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                                        
                                         
                                     </li>
                                     <li>
                                         <h4>Providing complete training with the CMS or Portal used.</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                                      
                                                 
                                     </li>
                                     <li>
                                         <h4>Response to all your queries in less than 24 hours through E-mail, IM or call</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                                       
                                             
                                     </li>
                                     <li>
                                         <h4>Ongoing Tutorial of CMS</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                                        
                                                         
                                     </li>
                                     
                                     <li>
                                         <h4>FAQ’s on the CMS used</h4>
-                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p> -->
+                                      
                                                     
                                     </li>
                                    
@@ -97,8 +97,8 @@
                       
                 
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 22px;">
-                            <ul style="list-style: square;margin: left 20%;margin-top: auto;">
+                        <div class="ul-icon white-tick" >
+                            <ul style="list-style-type:disc;">
                                 <li>
                                    <h4>PHP Development.</h4>
                                  </li>

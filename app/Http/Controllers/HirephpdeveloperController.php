@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class HirephpdeveloperController extends Controller
 {
     public function index(){
-        return view('pages.hire-php-developer');
+        return view('pages.hire-PHP-devloper');
     }
 }

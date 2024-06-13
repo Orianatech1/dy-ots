@@ -17,7 +17,7 @@
                 <div class="about-block">
                     <div class="row">
                         <h1 class="h2 text-center w-100">UI/UX Design </h1>
-                        <p align="center">UI (User Interface) and UX (User Experience) design are crucial elements in creating effective and engaging digital products. UI design focuses on the visual aspects of a product. UX design is about enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction with the product. </p>
+                        <p style="text-align:justify;">UI (User Interface) and UX (User Experience) design are crucial elements in creating effective and engaging digital products. UI design focuses on the visual aspects of a product. UX design is about enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction with the product. </p>
                     </div>
                 </div>
                
@@ -31,48 +31,48 @@
                         <div class="row">
                             <div class="col-lg-5 arrow-active">
                                 <h4 class="section-title text-uppercase" style="padding-left: 30px;">Benefits of UI/UX Design</h4>
-                                <a class="line-arrow-link" href="/otsfinal/pages/contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                               
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
-                                    <ul style="padding: right 5px;">
+                                    <ul style="list-style-type:disc;">
                                         <li>
-                                            <h4 align="justify-content-end">Improved User Satisfaction.</h4>
+                                            <h4 style="text-align: justify;">Improved User Satisfaction.</h4>
                                           
                                         </li>
                                         <li>
-                                            <h4 align="justify-content-end">Increased Conversion Rates.</h4>
+                                            <h4 style="text-align: justify;">Increased Conversion Rates.</h4>
                                             
                                         </li>
                                         <li>
-                                            <h4 align="justify-content-center">Enhanced Brand Perception.</h4>
+                                            <h4 style="text-align: justify;">Enhanced Brand Perception.</h4>
                                             
                                         </li>
                                         <li>
-                                            <h4 align="justify-content-center">Lower Development Costs.
+                                            <h4 style="text-align: justify;">Lower Development Costs.
                                             </h4>
                                             
                                             
                                         </li>
                                        
                                         <li>
-                                            <h4 align="justify-content-end">Competitive Advantage.</h4>
+                                            <h4 style="text-align: justify;">Competitive Advantage.</h4>
                                             
                                                     
                                         </li>
                                         <li>
-                                            <h4 align="justify-content-end">Better Accessibility.</h4>
+                                            <h4 style="text-align: justify;">Better Accessibility.</h4>
                                             
                                                     
                                         </li>
                                         <li>
-                                            <h4 align="justify-content-end">Data-Driven Decisions.</h4>
+                                            <h4 style="text-align: justify;">Data-Driven Decisions.</h4>
                                             
                                                     
                                         </li>
                                         
                                         <li>
-                                            <h4 align="justify-content-end">Increased Customer Loyalty and Retention.</h4>
+                                            <h4 style="text-align: justify;">Increased Customer Loyalty and Retention.</h4>
                                            
                                                     
                                         </li>

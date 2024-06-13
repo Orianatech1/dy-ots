@@ -100,7 +100,7 @@
                                                <li><a href="{{ url('/ecommerce-development') }}"
                                                        class="subnav_title">ECommerce Website Development</a></li>
                                                <li><a href=" {{ url('/modernization') }}" class="subnav_title">Website
-                                                       Modernization</a></li>modernization
+                                                       Modernization</a></li>
                                                <li><a href="{{ url('/custom-crm-software-development') }}"
                                                        class="subnav_title">Custom CRM Software Development</a>
                                                </li>
@@ -110,7 +110,7 @@
                                                        class="subnav_title">Custom Software Development</a></li>
                                                <li><a href="{{ url('/database-development') }}"
                                                        class="subnav_title">Database Development</a></li>
-                                               <li><a href="{{ url('/document-management-services') }}"
+                                               <li><a href="{{ url('/document-management-system-development') }}"
                                                        class="subnav_title">Document Management System
                                                        Development</a></li>
                                                <li><a href="{{ url('/saas-application-development') }}"
@@ -137,9 +137,9 @@
                                            <ul class="sub-menu">
                                                <li><a href="{{ url('/android-app-development') }}"
                                                        class="subnav_title">Android app development</a></li>
-                                               <li><a href="{{ url('/iphone-app-developer') }}" class="subnav_title">iOS
+                                               <li><a href="{{ url('/iphone-app-development') }}" class="subnav_title">iOS
                                                        app development</a></li>
-                                               <li><a href=" {{ url('/ipad-app-developer') }}" class="subnav_title">iPad
+                                               <li><a href=" {{ url('/ipad-app-development') }}" class="subnav_title">iPad
                                                        app development</a></li>
                                                <li><a href="{{ url('/apple-watch-app-development') }}"
                                                        class="subnav_title">Apple Watch App Development</a></li>
@@ -150,7 +150,7 @@
                                            <h3 class="title"><a href="{{ url('/digital-marketing-services') }}">Digital
                                                    Marketing Services</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href="{{ url('/seo-search-engin-optimization') }}"
+                                               <li><a href="{{ url('/seo-search-engine-optimization') }}"
                                                        class="subnav_title">Search Engine Optimisation (SEO)</a>
                                                </li>
 
@@ -185,17 +185,17 @@
 
                                                     <li><a href="{{url('/hire-smo-specialist')}}" class="subnav_title">Hire SMO
                                                             Specialist</a></li>
-                                                    <li><a href="{{ url('/hire-php-developer')}}" class="subnav_title">Hire PHP Developer</a></li>
-                                                    <li><a href="{{ url('/hire-python-developer')}}" class="subnav_title">Hire Python Developer</a></li>
+                                                    <li><a href="{{ url('/hire-PHP-devloper')}}" class="subnav_title">Hire PHP Developer</a></li>
+                                                    <li><a href="{{ url('/hire-Python-developer')}}" class="subnav_title">Hire Python Developer</a></li>
                                                     <li><a href="{{ url('/hire-web-designer')}}" class="subnav_title">Hire
                                                             Web Designer</a></li>
 
-                                                    <li><a href="{{ url('/hire-angular-development')}}" class="subnav_title">Hire Angular Developer</a></li>
+                                                    <li><a href="{{ url('/hire-angular-developer')}}" class="subnav_title">Hire Angular Developer</a></li>
                                                     <li><a href="{{ url('/hire-android-app-developer')}}" class="subnav_title">Hire Android App Developer</a>
                                                     </li>
                                                     <li><a href="{{ url('/hire-app-designer')}}" class="subnav_title">Hire App
                                                             Designer</a></li>
-                                                    <li><a href="{{ url('/hire-java-developer')}}" class="subnav_title">Hire Java
+                                                    <li><a href="{{ url('/hire-javadeveloper')}}" class="subnav_title">Hire Java
                                                             Developer</a></li>
                                                     <li><a href="{{ url('/hire-reactjs-developer')}}" class="subnav_title">Hire ReactJS Developer</a></li>
                                                     <li><a href="{{ url('/hire-ios-app-developer')}}" class="subnav_title">Hire
@@ -233,7 +233,7 @@
                                 <a class="nav-link page-scroll" href="#" class="subnav_title">Blog</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link page-scroll" href="/pages/contact-us.html">Contact</a>
+                                <a class="nav-link page-scroll" href="{{url('/contact-us')}}">Contact</a>
                             </li>
                         </ul>
                     </div>

@@ -21,12 +21,12 @@
                         <div class="row">
                             <div>
                                 <h2>Professional Web & Software Technology Services</h2>
-                    <p>OrianaTech Solutions is a leading <strong> Web & Software </strong>
+                    <p style="text-align: justify;">OrianaTech Solutions is a leading <strong> Web & Software </strong>
                         development company in Pune which provides operational and functional web & software development services.
                         We help our clients to convert their business processes into the workflow-based application.
                         Having the right web & software for your business will not only solve the issues
                         which the businesses are facing but also will have an edge over your competitors</p>
-                                <p>We have a team of specialist <strong> Web & Software </strong>
+                                <p style="text-align: justify;">We have a team of specialist <strong> Web & Software </strong>
                                     developers who have in-depth knowledge in available software development
                                     tools like C, C++, Client/Server Programming, Win32 OR Windows SDK, multithreading,
                                     database concepts, MFC, SQL and windows internals C#, Linux/Unix, Web Services,
@@ -103,9 +103,9 @@
 
 
 
-                                <p>Website with the right functionality and features can assist your
+                                <p style="text-align: justify;">Website with the right functionality and features can assist your
                                     online business to grow to the next level and get maximum return on investment.</p>
-                                <p>"Websites should look good from the inside and out" , that 's what we at OrianaTech
+                                <p style="text-align: justify;">"Websites should look good from the inside and out" , that 's what we at OrianaTech
                                     have adapted and delivered to most of Dubai Based Website development Projects with
                                     Proven Results.</p>
                             </div>
@@ -121,22 +121,22 @@
                             <div class="col-md-10 offset-1">
                                 <h4 class="h2">What is so unique in our Website & Software Development Services?</h4>
 
-                                <p>We at our <strong> Website Development  Company </strong>
+                                <p style="text-align: justify;">We at our <strong> Website Development  Company </strong>
                                     harness the latest technologies for our Website Development Services,
                                     giving our website the edge over others. We make sure that we provide our clients with the
                                     best quality services with the help of our quality test control and maintaining our quality
                                     standards throughout our <strong> Professional Website & Development </strong> . </p>
-                                <p>The other factor that makes our services a great choice is because of the pricing we offer.
+                                <p style="text-align: justify;">The other factor that makes our services a great choice is because of the pricing we offer.
                                     We offer our quality at a very affordable rate which is flexible for each and every
                                     development project, as we know all development projects are not the same. However,
                                     we make sure that the quality of our Services is not affected by the low cost.
                                     So all projects have to be taken care of under one roof with our <strong>
                                         Professional Website Development </strong> expertise and experience.</p>
-                                <p>OrianaTech Solutions has been in the industry providing clients with quality services
+                                <p style="text-align: justify;">OrianaTech Solutions has been in the industry providing clients with quality services
                                     in the Dubai, Turkey, Malaysia and India. Our experience goes further to help our
                                     clients with the gained knowledge and expertise in  <strong>
                                         Website Development  Services </strong>.</p>
-                                <p>We get the best human resources to power our quality driven Web Development Services.
+                                <p style="text-align: justify;">We get the best human resources to power our quality driven Web Development Services.
                                     All our experts have the professionalism to carry out any Website Development
                                     tasks with great results. Our <strong> Professional Website Development </strong>
                                     team has result oriented and passionate professionals who are flexible to work with
