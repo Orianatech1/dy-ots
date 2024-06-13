@@ -122,7 +122,7 @@
                                            <ul class="sub-menu">
                                                <li><a href="{{ url('/prototypes') }}" class="subnav_title">Prototypes</a>
                                                </li>
-                                               <li><a href=" /pages/wireframe-design.html" class="subnav_title">Wireframe
+                                               <li><a href=" {{url('/wireframe-design') }}" class="subnav_title">Wireframe
                                                        Design</a></li>
                                                <li><a href=" /pages/website-design.html" class="subnav_title">Website
                                                        Design</a></li>
@@ -139,7 +139,7 @@
                                                        class="subnav_title">Android app development</a></li>
                                                <li><a href=" /pages/android-app-development.html" class="subnav_title">iOS
                                                        app development</a></li>
-                                               <li><a href=" /pages/ipad-app-development.html" class="subnav_title">iPad
+                                               <li><a href=" {{url('/ipad-app-development') }}" class="subnav_title">iPad
                                                        app development</a></li>
                                                <li><a href="{{ url('/apple-watch-app-development') }}"
                                                        class="subnav_title">Apple Watch App Development</a></li>
@@ -147,14 +147,14 @@
 
                                        </div>
                                        <div class="col-menu col-lg-3 col-md-4 col-sm-6">
-                                           <h3 class="title"><a href=" /pages/digital-marketing-services.html">Digital
+                                           <h3 class="title"><a href="{{url('/digital-marketing-services') }}">Digital
                                                    Marketing Services</a></h3>
                                            <ul class="sub-menu">
-                                               <li><a href=" /pages/seo-search-engine-optimization.html"
+                                               <li><a href="{{url('/seo-search-engine-optimization') }}"
                                                        class="subnav_title">Search Engine Optimisation (SEO)</a>
                                                </li>
 
-                                               <li><a href=" /pages/seo-packages.html" class="subnav_title">SEO
+                                               <li><a href="{{url('/seo-packages') }}" class="subnav_title">SEO
                                                        Packages</a></li>
                                            </ul>
                                                 <hr class="mt-3 mb-3" />
