@@ -36,7 +36,7 @@
                     <li><a href="https://sites.google.com/view/orianatech-shipping-policy/home" target="_blank">Shipping Policy </a></li>
                     <li><a href="https://sites.google.com/view/orianatech-refund-policy/home" target="_blank">Refund Policy </a></li>
 
-                    <li><a href="/pages/artificial-intelligence-and-machine-learning.html">Artificial Intelligence &
+                    <li><a href="{{ url('/artificial-intelligence-and-machine-learning') }}">Artificial Intelligence &
                             Machine Learning</a></li>
 
                 </ul>

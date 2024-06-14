@@ -18,7 +18,7 @@
                 <div class="about-block">
                     <div class="row">
                         <h1 class="h2 text-center w-100">Custom Software Development</h1>
-                        <p style="font-size: 120% ;text-align: justify;">Custom software development involves the creation of tailored software solutions designed to meet the specific needs and requirements of a particular business or organization. 
+                        <p style="text-align: justify;">Custom software development involves the creation of tailored software solutions designed to meet the specific needs and requirements of a particular business or organization. 
                             Unlike off-the-shelf software packages that offer generic functionality, custom software is built from the ground up, taking into account the unique processes, workflows, and challenges of the client. The development process typically begins with detailed requirements gathering, where the development team collaborates closely with stakeholders to understand their objectives and specifications.
                              From there, a comprehensive design phase follows, outlining the architecture, user interface, and features of the software. Skilled developers then proceed to code the software, utilizing programming languages and frameworks best suited to the project's requirements.
                               Throughout the development process, thorough testing is conducted to ensure the software's functionality, reliability, and security.
@@ -30,19 +30,20 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h3 class="mb-4"> custom-software-development Service</h3>
-                      <div class="col-lg-6">
+                      <h3 class="mb-4"> custom-software-development Service </h3>
+                      <div class="col-lg-7">
                         <div class="ul-icon white-tick" style="font-size: 22px;">
-                            <ul style="list-style-type:square;text-align: justify;margin-left: 5%;">
-                                <li>
-                                    <h4>software consulting Service</h4>
-                                </li>
-                                <li>
-                                    <h4>Maintense and support</h4>
-                                </li>
-                                <li>
-                                    <h4>Software Product development </h4>
-                                </li>
+                            <ul style="list-style-type:disc;text-align: justify;">
+                             <ul></ul>   
+                            <li>
+                                        <h4>Project management</h4>
+                                    </li>
+                                    <li>
+                                        <h4>Compliance and quality control of production</h4>
+                                    </li>
+                                    <li>
+                                        <h4>Automated data reporting and business analytics</h4>
+                                    </li>
 
                                
                             </ul>
@@ -50,8 +51,8 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:square;text-align: justify;">
-                                    <li>
+                                <ul style="list-style-type:disc;text-align: justify;">
+                                <li>
                                         <h4>software Integration Service</h4>
                                     </li>
                                     <li>
@@ -61,6 +62,8 @@
                                         <h4>enterprises Software Development</h4>
                                     </li>
                                     
+
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -68,5 +71,10 @@
             </div>
         </div>
 
+
         </section>
+
+
+
+          
         @endsection

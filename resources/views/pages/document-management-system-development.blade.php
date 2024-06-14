@@ -21,7 +21,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <h1 class="h2">The Most User-Friendly Document Management System in the World</h1>
-                                <p style="font-size: 120%;text-align: justify;">  Keeping your paperless office documents only on your computer or local server poses the risks of hard drive failure, fire, flood or burglary. And what if you want to access one of those important files away from the office? Embrace the world's most user-friendly EDMS with enhanced electronic signing capabilities. Designed for ease of use, top-tier security, and affordability, Folderit ensures your documents are safe and accessible anywhere, anytime.
+                                <p style="text-align: justify;">  Keeping your paperless office documents only on your computer or local server poses the risks of hard drive failure, fire, flood or burglary. And what if you want to access one of those important files away from the office? Embrace the world's most user-friendly EDMS with enhanced electronic signing capabilities. Designed for ease of use, top-tier security, and affordability, Folderit ensures your documents are safe and accessible anywhere, anytime.
                                 </p>
 
                                     
@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style: square;">
+                                <ul style="list-style-type:disc;text-align: justify;">
                                     <li>
                                         <h4><b>Access Control & Office 365</b></h4>
                                         <p style="font-size: 120%;"> Access management on all levels with granular custom permissions. Use Okta or Microsoft Entra ID (Active Directory) for central user management. Create groups of collaborators to share to many people at once! Work collaboratively in Office 365 apps.</p>

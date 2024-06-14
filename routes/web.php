@@ -114,7 +114,7 @@ Route::get('/hire-ios-app-developer',function(){
     return view('pages.hire-ios-app-developer');
 });
 
-Route::get('/hire-java-developer',function(){
+Route::get('/hire-javadeveloper',function(){
     return view('pages.hire-javadeveloper');
 });
 
@@ -126,7 +126,7 @@ Route::get('/hire-PHP-devloper',function(){
     return view('pages.hire-PHP-devloper');
 });
 
-Route::get('/hire-hire-Python-developer',function(){
+Route::get('/hire-Python-developer',function(){
     return view('pages.hire-Python-developer');
 });
 
