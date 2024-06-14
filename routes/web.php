@@ -82,8 +82,8 @@ Route::get('/digital-marketing-services',function(){
     return view('pages.digital-marketing-services');
 });
 
-Route::get('/document-management-services',function(){
-    return view('pages.document-management-services');
+Route::get('/document-management-system-development',function(){
+    return view('pages.document-management-system-development');
 });
 
 Route::get('/ecommerce-development',function(){
@@ -109,9 +109,89 @@ Route::get('/hire-app-designer',function(){
 Route::get('/hire-dedicated-resource',function(){
     return view('pages.hire-dedicated-resource');
 });
-Route::get('/seo-packages.',function(){
+
+Route::get('/hire-ios-app-developer',function(){
+    return view('pages.hire-ios-app-developer');
+});
+
+Route::get('/hire-javadeveloper',function(){
+    return view('pages.hire-javadeveloper');
+});
+
+Route::get('/hire-Laravel-developer',function(){
+    return view('pages.hire-Laravel-developer');
+});
+
+Route::get('/hire-PHP-devloper',function(){
+    return view('pages.hire-PHP-devloper');
+});
+
+Route::get('/hire-Python-developer',function(){
+    return view('pages.hire-Python-developer');
+});
+
+Route::get('/hire-reactjs-developer',function(){
+    return view('pages.hire-reactjs-developer');
+});
+
+Route::get('/hire-smo-specialist',function(){
+    return view('pages.hire-smo-specialist');
+});
+
+Route::get('/hire-web-designer',function(){
+    return view('pages.hire-web-designer');
+});
+
+Route::get('/hire-wordpress-developer',function(){
+    return view('pages.hire-wordpress-developer');
+});
+
+Route::get('/ipad-app-development',function(){
+    return view('pages.ipad-app-development');
+});
+
+Route::get('/iphone-app-development',function(){
+    return view('pages.iphone-app-development');
+});
+
+Route::get('/mobile-app-design',function(){
+    return view('pages.mobile-app-design');
+});
+
+Route::get('/mobile-apps-development',function(){
+    return view('pages.mobile-apps-development');
+});
+
+Route::get('/ui-ux-design',function(){
+    return view('pages.ui-ux-design');
+});
+
+Route::get('/website-design',function(){
+    return view('pages.website-design');
+});
+
+Route::get('/wireframe-design',function(){
+    return view('pages.wireframe-design');
+});
+
+Route::get('/modernization',function(){
+    return view('pages.modernization');
+});
+
+Route::get('/seo-packages',function(){
     return view('pages.seo-packages');
 });
+
 Route::get('/seo-search-engine-optimization',function(){
     return view('pages.seo-search-engine-optimization');
 });
+
+Route::get('/saas-application-development',function(){
+    return view('pages.saas-application-development');
+});
+
+Route::get('/hire-angular-developer',function(){
+    return view('pages.hire-angular-developer');
+});
+
+

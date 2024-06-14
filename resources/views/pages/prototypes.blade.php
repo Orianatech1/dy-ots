@@ -34,7 +34,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul>
+                                <ul style="list-style-type:disc;margin-left: 20%;font-size: 20px;">
                                     <li>
                                         <h4>Helps stakeholders and team members visualize the final product and understand the website's structure and design.</h4>
 
