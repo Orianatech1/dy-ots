@@ -31,7 +31,7 @@
                              <p>Looking for digital marketing that delivers real results? OrianaTech, a creative digital marketing agency, enhances your brand's online presence. We ensure your business is discovered by thousands on social media and search engines. Currently, we serve 28 clients with proficient digital marketing strategies.</p>
                             <div class="text-left mt-3">
                                 <div></div>
-                  <h4 align="center">Why work with us?</h4>
+                  <h4 style="text-align:center;">Why work with us?</h4>
                     <div class="col-md-12">
                         <div class="ul-icon blue-tick pb-4">
                             <ul>
