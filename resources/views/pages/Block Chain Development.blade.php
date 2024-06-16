@@ -19,10 +19,10 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
-                                <h1 class="h2"> Blockchain Development</h1>
-
-                                <!--<span class="highlight">--><p align="center">blockchain performance to handle a high volume of transactions efficiently.OrianaTech Solution boasts a team of seasoned blockchain developers with extensive experience in designing, developing, and deploying blockchain solutions across various industries.</p><!--</span>-->
+                            <div class="col-md-12">
+                                <h1 ><b>Blockchain Development</b></h1>
+                                <br>
+                                <p style="text-align: justify">blockchain performance to handle a high volume of transactions efficiently.OrianaTech Solution boasts a team of seasoned blockchain developers with extensive experience in designing, developing, and deploying blockchain solutions across various industries.</p><!--</span>-->
 
                             </div>
                        </div>
@@ -38,22 +38,21 @@
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
                             <h2 class=" text-uppercase">Why Choose OrianaTech for Blockchain Development Services?</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
-                                        <p>Reusable Components</p>
+                                        <p>Reusable Components.</p>
                                     </li>
                                     <li>
-                                        <p>Agile Development</p>
+                                        <p>Agile Development.</p>
                                     </li>
                                     <li>
-                                        <p>Cross Functional Teams</p>
+                                        <p>Cross Functional Teams.</p>
                                     </li>
                                     <li>
-                                        <p>Astute Experience in Blockchain Development</p>
+                                        <p>Astute Experience in Blockchain Development.</p>
                                     </li>
 
                                 </ul>
@@ -61,19 +60,19 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul>
+                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
 
                                         <li>
-                                        <p>One of the fastest delivery</p>
+                                        <p>One of the fastest delivery.</p>
                                     </li>
                                     <li>
-                                        <p>times in the industry</p>
+                                        <p>times in the industry.</p>
                                     </li>
                                     <li>
-                                        <p>Extensive technology</p>
+                                        <p>Extensive technology.</p>
                                     </li>
                                     <li>
-                                        <p>Stack</p>
+                                        <p>Stack.</p>
                                     </li>
 
                                     </ul>
@@ -93,7 +92,7 @@
 
                                     <div class="col-md-4">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                     <li>
                                                         <h4>Process Integrity</h4>
                                                     </li>
@@ -109,7 +108,7 @@
                                     </div>
                                     <div class="col-md-4">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                     <li>
                                                         <h4>Immutability</h4>
                                                     </li>
@@ -123,11 +122,13 @@
                                                 </ul>
                                             </div>
                                     </div>
-                </div>
+                               </div>
                  <div class="col-md-12 section-padding">
-                  <img src="website/img/Blockchain.png" alt="" class="img-responsive ">
-                </div>
-                  </div>
-        </section>
-        
-        @endsection
+                
+                   <img src="{{ url('/assets/images/Blockchain.png') }}" class="img-responsive center-block " style="margin: 0 auto;"/>
+
+            
+              </div>
+        </div>
+</section>
+@endsection
