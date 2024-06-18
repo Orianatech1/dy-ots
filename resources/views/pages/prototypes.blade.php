@@ -29,33 +29,33 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
-                            <h2 class="section-title text-uppercase" style=" padding-left: 50px;" >Benefits of Prototype Web Design</h2>
-                            <a class="line-arrow-link" href="/otsfinal/pages/contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                            <h2 class="section-title text-uppercase" style=" padding-left: 30px;" >Benefits of Prototype Web Design</h2>
+
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
                                 <ul>
                                     <li>
-                                        <h4>Helps stakeholders and team members visualize the final product and understand the website's structure and design.</h4>
+                                        <h5>Helps stakeholders and team members visualize the final product and understand the website's structure and design.</h5>
 
                                     </li>
                                     <li>
-                                        <h4>Allows for early usability testing and identification of potential issues or improvements, saving time and resources in the long run.
-                                        </h4>
+                                        <h5>Allows for early usability testing and identification of potential issues or improvements, saving time and resources in the long run.
+                                        </h5>
 
                                     </li>
                                     <li>
-                                        <h4>Facilitates an iterative design process where feedback is used to make continuous improvements, ensuring a more user-friendly final product.</h4>
+                                        <h5>Facilitates an iterative design process where feedback is used to make continuous improvements, ensuring a more user-friendly final product.</h5>
 
                                     </li>
                                     <li>
-                                        <h4>Enhances communication between designers, developers, and stakeholders by providing a tangible reference point for discussions and decisions.
-                                        </h4>
+                                        <h5>Enhances communication between designers, developers, and stakeholders by providing a tangible reference point for discussions and decisions.
+                                        </h5>
 
 
                                     </li>
                                     <li>
-                                        <h4>Identifying and resolving design and usability issues early in the prototyping stage is more cost-effective than making changes during or after development.</h4>
+                                        <h5>Identifying and resolving design and usability issues early in the prototyping stage is more cost-effective than making changes during or after development.</h5>
 
 
                                     </li>
