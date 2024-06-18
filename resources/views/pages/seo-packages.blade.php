@@ -77,7 +77,7 @@
                     <div class="pricing-table-section text-center text-lg-left">
                         <div class="row no-gutters">
                             <div class="col">
-                                <h5 class="mb-4">PRICE PER MONTH INDIA RS</h5>
+                                <h5 class="mb-4">PRICE PER MONTH INDIAN RS</h5>
                             </div>
                         </div>
                         <div class="border rounded">
@@ -110,7 +110,7 @@
                                     <span>14</span>
                                 </div>
                                 <div class="col-4 col-lg-3 d-flex justify-content-center py-2">
-                                    <span>20</span>
+                                    <span>20+</span>
                                 </div>
                             </div>
                             <div class="row no-gutters align-items-center">
@@ -126,7 +126,7 @@
                                     <span>18</span>
                                 </div>
                                 <div class="col-4 col-lg-3 d-flex justify-content-center py-2">
-                                    <span>25</span>
+                                    <span>25+</span>
                                 </div>
                             </div>
                             <div class="row no-gutters align-items-center">
