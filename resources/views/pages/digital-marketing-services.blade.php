@@ -21,7 +21,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <h1 class=" text-uppercase"><b>Digital Marketing Agency</b></h1>
+                            <h1><b>Digital Marketing Agency</b></h1>
                             <br>
                          <p style="text-align: justify">OrianaTech provides comprehensive digital marketing solutions worldwide, specializing in SEO, Google Ads, SMM, and Email Marketing. Our services boost sales through effective lead generation, contributing significantly to your business's success as the online customer base grows.</p>
                              <p style="text-align: justify">Looking for digital marketing that delivers real results? OrianaTech, a creative digital marketing agency, enhances your brand's online presence. We ensure your business is discovered by thousands on social media and search engines. Currently, we serve 28 clients with proficient digital marketing strategies.</p>

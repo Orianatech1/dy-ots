@@ -18,7 +18,7 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
-                        <h3 class="h3 text-center w-100"><b>Database Development: What You Need to Know</b></h3>
+                        <h1 class="h2 text-center w-100"><b>Database Development: What You Need to Know</b></h1>
                         <p style="text-align: justify;">
                             Database development is designing, creating a database or data model, and analyzing requirements and their intents as raw data. Database development aims to create a structure that will allow for the efficient storage and retrieval of data.
 
