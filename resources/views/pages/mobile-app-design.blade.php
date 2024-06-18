@@ -23,7 +23,8 @@
                 </div>
                
             </div>
-           
+            <div>
+                <br><br>
             <div class="clearfix"></div>
             
             <div class="clearfix"></div>
@@ -32,7 +33,7 @@
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
                             <h2 class="section-title text-uppercase">Benefits of Mobile App Design</h2>
-                            <a class="line-arrow-link" href="/otsfinal/pages/contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                           
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
@@ -63,9 +64,11 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>>
-                </div>>
+                    </div>
+                </div>
             </div>
+            </div>>
+    </section>
                        
                                    
                               
