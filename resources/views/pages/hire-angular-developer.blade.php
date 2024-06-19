@@ -92,7 +92,7 @@
                 <div class="container">
                     <div class="row">
                     <div class="col-lg-6 arrow-active">
-                            <h2 class="section-title text-lowercase">Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Angular applications:</h2>
+                            <h2 class="section-title text-lowercase">Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Angular applications:</h4>
                         </div>
 
 
@@ -120,15 +120,10 @@
                                 <li>
                                     <p>Angular Universal - For server-side rendering to improve performance and SEO.</p>
                                 </li>
-                                    <li>
-                                        <p >Webpack-For module bundling and optimizing asset delivery.</p>
-                                    </li>
-                                    <li>
-                                        <p >Sass/SCSS-For writing maintainable and scalable CSS.</p>
-                                    </li>
-                                    <li>
-                                        <p >Bootstrap-To create responsive and mobile-first web designs.</p>
-                                    </li>
+                                    
+                                  <li>
+                                     <p>Bootstrap - To create responsive and mobile-first web designs.</p>
+                                </li>
                                     <li>
                                         <p >Tailwind CSS -For utility-first CSS framework to rapidly build custom designs.</p>
                                     </li>
@@ -140,13 +135,13 @@
                                     <li>
                                         <p >SonarQube - For continuous inspection of code quality.</p>
                                     </li><li>
-                                        <p >AWS/GCP/Azure - For scalable and secure cloud infrastructure.</p>
+                                        <p>AWS/Azure - For scalable and secure cloud infrastructure.</p>
                                     </li>
                                     <li>
-                                        <p >Firebase -For real-time databases, authentication, and hosting services.</p>
+                                        <p>Firebase -For real-time databases, authentication, and hosting services.</p>
                                     </li>
                                     <li>
-                                        <p >JIRA-For agile project management and issue tracking.</p>
+                                        <p>JIRA - For agile project management and issue tracking.</p>
                                     </li>
                                 </ul>
                             </div>

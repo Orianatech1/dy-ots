@@ -17,20 +17,20 @@
         </header>
 
         <section>
-            <div class="tech-abt-sec">
-                <div class="head-sec">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                                <h1 class="h2" style="margin-right: 4%;">Hire Android App Developer</h1>
-
-                            <p style=" text-align: justify;">OrianaTech Solution Private Limited is seeking a highly skilled iOS App Developer to join our dynamic team. The ideal candidate will be responsible for developing robust and innovative iPhone applications that enhance user experience and meet client needs. As part of our team, you will collaborate with designers, project managers, and other developers to create top-notch mobile solutions. If you are passionate about iOS development and have a strong track record of building high-quality apps, we would love to hear from you.</p><!--</span>-->
-                            </div>
-                       </div>
+                <div class="tech-abt-sec">
+                    <div class="head-sec">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h1 class="h2">Hire Android Developer</h1>
+                                    <p style="text-align: justify;">
+                                    OrianaTech Solution Private Limited is seeking a highly skilled iOS App Developer to join our dynamic team. The ideal candidate will be responsible for developing robust and innovative iPhone applications that enhance user experience and meet client needs. As part of our team, you will collaborate with designers, project managers, and other developers to create top-notch mobile solutions. If you are passionate about iOS development and have a strong track record of building high-quality apps, we would love to hear from you.
+                                    </p>
+                                </div>
+                           </div>
+                        </div>
                     </div>
                 </div>
-
-            </div>
             <div class="clearfix"></div>
 
             <div class="clearfix"></div>
@@ -40,9 +40,11 @@
                         <div class="col-lg-6 arrow-active">
                             <h2 class="section-title text-uppercase">Why Hire android app developer from OrianaTech Solutions Private Limited?</h2>
                         </div>
+
                         <div class="col-lg-3">
-                            <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc">
+                                <div class="ul-icon white-tick">
+                                    <ul style="list-style-type:disc; margin-left: 10%;">
+
                                     <li>
                                         <p >Expertise and Experience.</p>
                                     </li>
@@ -58,13 +60,6 @@
                                     <li>
                                         <p>Innovative Mindset & Proven Success.</p>
                                     </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
-                                <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc; margin-left: 10%;">
-
                                     <li>
                                         <p>24/7 support and maintenance.</p>
                                     </li>
@@ -86,84 +81,64 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify; "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</br></br></h4>
-
-
-                      <div class="col-lg-6">
-                        <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc;text-align: justify">
-                                <li>
-                                    <p style="text-align: justify">Java - The traditional and robust language for Android development.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">Android Jetpack - A suite of libraries to help developers follow best practices, reduce boilerplate code, and write consistent code across Android versions.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">Jetpack Compose - For building native UI with a declarative approach, ensuring responsive and dynamic user interfaces.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">Retrofit - To simplify API interaction and network calls.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">Room - For local database management and persistence</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">RxJava/RxKotlin - For reactive programming to handle asynchronous data streams.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">Coroutines - For managing background threads and asynchronous programming in a simpler and more readable way.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">LiveData - To build data-driven applications with lifecycle awareness.</p>
-                                </li><li>
-                                    <p style="text-align: justify">Data Binding - For binding UI components directly to data sources, enhancing the separation of concerns.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">Navigation Component - To handle all navigation within the app, from simple button clicks to complex patterns.</p>
-                                </li>
-                                <li>
-                                    <p style="text-align: justify">WorkManager - For managing background tasks that need guaranteed execution.</p>
-                                </li>
-
-                            </ul>
+                    <div class="col-lg-6 arrow-active">
+                            <h2 class="section-title text-lowercase">Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</h2>
                         </div>
-                    </div>
-                    <div class="col-lg-6">
+
+
+
+                        <div class="col-lg-6">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
+                                <ul style="list-style-type:disc; margin-left: 5%;text-align: justify">
+            
+                                <li>
+                                    <p>Java - The traditional and robust language for Android development.</p>
+                                </li>
+                                <li>
+                                    <p >Android Jetpack - A suite of libraries to help developers follow best practices, reduce boilerplate code, and write consistent code across Android versions.</p>
+                                </li>
+                                <li>
+                                    <p >Jetpack Compose - For building native UI with a declarative approach, ensuring responsive and dynamic user interfaces.</p>
+                                </li>
+                                <li>
+                                    <p >Retrofit - To simplify API interaction and network calls.</p>
+                                </li>
+                              
+                                <li>
+                                    <p >RxJava/RxKotlin - For reactive programming to handle asynchronous data streams.</p>
+                                </li>
+                                <li>
+                                    <p >Coroutines - For managing background threads and asynchronous programming in a simpler and more readable way.</p>
+                                </li>
+                                <li>
+                                    <p >LiveData - To build data-driven applications with lifecycle awareness.</p>
+                                </li><li>
+                                    <p>Data Binding - For binding UI components directly to data sources, enhancing the separation of concerns.</p>
+                                </li>
+                                <li>
+                                    <p>Navigation Component - To handle all navigation within the app, from simple button clicks to complex patterns.</p>
+                                </li>
+                                <li>
+                                    <p >WorkManager - For managing background tasks that need guaranteed execution.</p>
+                                </li>
 
                                     <li>
-                                        <p style="text-align: justify">Firebase - For real-time databases, authentication, cloud messaging, and analytics.</p>
+                                        <p >Firebase - For real-time databases, authentication, cloud messaging, and analytics.</p>
                                     </li>
                                     <li>
-                                        <p style="text-align: justify">Android Studio - The official IDE for Android development, offering powerful tools for building, testing, and debugging.</p>
+                                        <p >Android Studio - The official IDE for Android development, offering powerful tools for building, testing, and debugging.</p>
                                     </li>
                                     <li>
-                                        <p style="text-align: justify">Gradle - For efficient build automation and dependency management.</p>
+                                        <p>Gradle - For efficient build automation and dependency management.</p>
                                     </li>
                                     <li>
-                                        <p style="text-align: justify">ProGuard/R8 - For code shrinking, obfuscation, and optimization to protect and enhance the application.</p>
+                                        <p >ProGuard/R8 - For code shrinking, obfuscation, and optimization to protect and enhance the application.</p>
                                     </li>
                                     <li>
-                                        <p style="text-align: justify">Material Design - To create intuitive and engaging user experiences that follow Google's design guidelines.</p>
+                                        <p >Material Design - To create intuitive and engaging user experiences that follow Google's design guidelines.</p>
                                     </li>
-                                    <li>
-                                        <p style="text-align: justify">ARCore - For building augmented reality experiences.</p>
-                                    </li>
-                                    <li>
-                                        <p style="text-align: justify">ML Kit - For integrating machine learning features directly into your app.</p>
-                                    </li>
-                                    <li>
-                                        <p style="text-align: justify">ExoPlayer - For playing audio and video with high customization</p>
-                                    </li><li>
-                                        <p style="text-align: justify">AWS/GCP/Azure - For scalable and secure cloud infrastructure.</p>
-                                    </li>
-                                    <li>
-                                        <p style="text-align: justify">Glide/Picasso - For efficient image loading and caching.</p>
-                                    </li>
-                                    <li>
-                                        <p style="text-align: justify">Lottie - For adding high-quality animations to your app.</p>
-                                    </li>
+                                    
+                         
                                 </ul>
                             </div>
                         </div>
