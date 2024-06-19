@@ -34,7 +34,7 @@
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
-                                    <ul>
+                                    <ul style="list-style-type:disc;">
                                         <li>
                                             <h4 style="text-align:justify;">Our wireframes provide a clear visual representation of your project's layout and structure, ensuring that all stakeholders understand and agree on the project's requirements from the outset.</h4>
                                           

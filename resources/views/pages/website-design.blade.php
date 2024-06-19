@@ -18,7 +18,7 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
+                            <div class="col">
                                 <h1 class="h2">Web Design Services</h1>
                                 <p style="text-align:justify;">At OrienaTech Solutions Private Limited, we provide the best web design services that ensure optimal customer engagement for your online business. Our web design services are meticulously planned to offer our clients the most creative and innovative designs at an extremely affordable rate. We never compromise on the quality of our website designs, regardless of the cost. Our web designers excel in crafting both static and dynamic website pages, delivering exceptional web designs at remarkably low costs.</p>
                                
@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                                <ul style="list-style-type:disc;">
                                     <li>
                                         <h4>Custom website design</h4>
                                         <p>We build a custom web design that is creative and full of features.</p>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul>
+                                    <ul style="list-style-type:disc;">
                                                     
                                         <li>
                                             <h4>PSD to XHTML conversion</h4> 

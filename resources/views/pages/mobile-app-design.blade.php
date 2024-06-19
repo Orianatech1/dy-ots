@@ -24,19 +24,21 @@
                
             </div>
             <div>
-            <div class="container content">
+                <br><br>
+            <div class="clearfix"></div>
+            
             <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-5 arrow-active">
-                            <h3 class="section-title text-uppercase">Benefits of Mobile App Design</h3>
-                            
+                        <div class="col-lg-4 arrow-active">
+                            <h2 class="section-title text-uppercase">Benefits of Mobile App Design</h2>
+                           
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;margin-left: 20%;font-size: 20px;">
-                                    <li>
+                                <ul style="list-style-type:disc;">
+                                <li>
                                         <h4 style="text-align:justify;"> Well-designed apps provide a seamless and enjoyable experience for users, leading to higher satisfaction and retention rates.
 
                                         </h4>
@@ -58,29 +60,17 @@
                                         
                                     </li>
                                    
-                                   
+                                    
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-            <div class="tech-feature section-padding">
-                <div class="container">
-                   <div class="row">
-                    <div class="col-lg-12 arrow-active">
-                        <h6 class="section-title" >Innovative Design for a Mobile-First World</h6>
-                        <p style="text-align:center;">At Orientatech Solution Private Limited, we specialize in creating intuitive and visually striking mobile app designs that offer an exceptional user experience. Our mobile app design services are tailored to transform your ideas into powerful, user-friendly applications that stand out in the competitive app market.</p>
-    
-                    </div>
-                </div>
-            </div>
-        </div>
-        </section>
+            </div>>
+    </section>
+                       
+                                   
+                              
+            
         @endsection

@@ -18,8 +18,8 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
-                        <h3 class="h3 text-center w-100"><b>Database Development: What You Need to Know</b></h3>
-                        <p style="font-size: 120%;text-align: justify;">
+                        <h1 class="h2 text-center w-100"><b>Database Development: What You Need to Know</b></h1>
+                        <p style="text-align: justify;">
                             Database development is designing, creating a database or data model, and analyzing requirements and their intents as raw data. Database development aims to create a structure that will allow for the efficient storage and retrieval of data.
 
                             Being a blueprint for the database, it should meet the needs of business. Database development includes the design of the table structure, the creation of the indexes, and the development of the procedures and triggers.
@@ -52,7 +52,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style: square;">
+                                <ul style="list-style-type:disc;text-align: justify;">
                                     <li>
                                         <h4><b>Has proper data integrity</b></h4>
                                         <p style="font-size: 120%;">  When your employees continually feed data in your various databases, they produce well-integrated data. Updating one system should be reflected in the entire database.</p>
@@ -80,7 +80,7 @@
                         <h3 class="section-title"><b>Benefits of Outsourcing Database Development Services</b></h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
-                               <ul style="list-style-type:'*'"></ul>
+                               <ul style="list-style-type:disc;text-align: justify;"></ul>
                                 <ul>
                                     <li>
                                         <ul style="list-style-type:'*'"></ul>

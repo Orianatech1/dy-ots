@@ -16,18 +16,11 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
-                                <h1 class="h1">Augmented Reality Solutions</h1>
-
-                                <!--<span class="highlight">--><p align="justify">Augmented Reality (AR) is a cutting-edge technology that overlays information and virtual objects onto real-world environments in real-time. By enhancing the external surroundings with additional data, it creates a unique artificial environment. We provide top-tier Augmented Reality Solutions tailored for your business needs. AR is highly compatible with devices like iOS, Hololens, iPhones, and Android devices, making it versatile and widely accessible.
-
-
-
-
-
-
-</p><!--</span>-->
-
+                            <div class="col-md-12">
+                                <h1 ><b>Augmented Reality Solutions</b></h1>
+                                <br>
+                                <p style="text-align: justify">Augmented Reality (AR) is a cutting-edge technology that overlays information and virtual objects onto real-world environments in real-time. By enhancing the external surroundings with additional data, it creates a unique artificial environment. We provide top-tier Augmented Reality Solutions tailored for your business needs. AR is highly compatible with devices like iOS, Hololens, iPhones, and Android devices, making it versatile and widely accessible.</p>
+  j
                             </div>
                        </div>
                     </div>
@@ -41,25 +34,24 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
-                            <h2 class="section-title text-uppercase">Our Key Capabilities in AR App Development</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                            <h1><b>Our Key Capabilities in AR App Development</b></h1>
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
-                                        <p>Custom AR mobile app creation
+                                        <p>Custom AR mobile app creation.
                                         </p>
                                     </li>
                                     <li>
-                                        <p>AR solutions for eCommerce and mobile commerce</p>
+                                        <p>AR solutions for eCommerce and mobile commerce.</p>
                                     </li>
                                     <li>
-                                        <p>AR applications for education and eLearning
+                                        <p>AR applications for education and eLearning.
                                         </p>
                                     </li>
                                     <li>
-                                        <p>Advanced image recognition and interactive maps</p>
+                                        <p>Advanced image recognition and interactive maps.</p>
                                     </li>
 
                                 </ul>
@@ -67,20 +59,19 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul>
-
+                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                         <li>
-                                        <p>Comprehensive maintenance and support
+                                        <p>Comprehensive maintenance and support.
                                         </p>
                                     </li>
                                     <li>
-                                        <p>Geolocation and content management</p>
+                                        <p>Geolocation and content management.</p>
                                     </li>
                                     <li>
-                                        <p>Sophisticated image recognition and AR mapping</p>
+                                        <p>Sophisticated image recognition and AR mapping.</p>
                                     </li>
                                     <li>
-                                        <p>UI/UX design for user interaction</p>
+                                        <p>UI/UX design for user interaction.</p>
                                     </li>
 
                                     </ul>
@@ -96,11 +87,11 @@
        <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">Why Choose OrianaTech Solution for AR Services?</h3>
+                                    <h3 class="section-title" style="text-align: justify">Why Choose OrianaTech Solution for AR Services?</h3>
 
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                     <li>
                                                         <h4>End-to-End Solutions
                                                         </h4>
@@ -118,7 +109,7 @@
                                     </div>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
-                                                <ul>
+                                            <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                                     <li>
                                                         <h4>Proven Track Record
                                                         </h4>
@@ -134,9 +125,8 @@
                                                 </ul>
                                             </div>
                                     </div>
-                </div>
+                          </div>
                 </div>
 
         </section>
-        
         @endsection

@@ -22,21 +22,20 @@
                 </div>
                
             </div>
-            <div>
-                <div></div>
-                <div class="container content">
-                <div class="clearfix"></div>
-                <div class="tech-feature bg-blue section-padding text-white">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-5 arrow-active">
-                                <h4 class="section-title text-uppercase" style="padding-left: 30px;">Benefits of UI/UX Design</h4>
-                               
+            <br><br>
+            <div class="clearfix"></div>
+            
+            <div class="tech-feature bg-blue section-padding text-white">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-5 arrow-active">
+                                <h3 class="section-title text-uppercase" style="padding-left: 50px; padding-right: 50px;">Benefits of UI/UX Design</h3>
+                                
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
                                     <ul style="list-style-type:disc;">
-                                        <li>
+                                    <li>
                                             <h4 style="text-align: justify;">Improved User Satisfaction.</h4>
                                           
                                         </li>
@@ -76,8 +75,6 @@
                                            
                                                     
                                         </li>
-                                       
-                                       
                                     </ul>
                                 </div>
                             </div>
@@ -86,5 +83,10 @@
                 </div>
             </div>
         </div>
+
+
+
+
+           
         </section>
         @endsection

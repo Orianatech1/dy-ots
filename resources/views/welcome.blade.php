@@ -3,7 +3,9 @@
 
      @section('main-content')
 
-    <!-- heder section -->
+
+
+     <!-- heder section -->
             <div id="particles-js"></div>
             <div class="header-banner bg-grad has-mask">
                 <div class="ax-banner">

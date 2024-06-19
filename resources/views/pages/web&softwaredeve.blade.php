@@ -53,7 +53,7 @@
 
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc">
+                                <ul style="list-style-type:disc;">
                                     <li>
                                         <p>Mobile Application Development</p>
                                     </li>
@@ -72,7 +72,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type: disc">
+                                    <ul style="list-style-type: disc;">
 
                                         <li>
                                             <p>Upgrading the Application</p>
@@ -97,7 +97,7 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
+                            <div class="col">
                                 <h3>We at OrianaTech Solutions Specialise in Creating sites
                                     and Software that leads to Higher conversion/Sales</h3>
 
@@ -118,7 +118,7 @@
                 <div class="head-sec bg-blue section-padding text-white">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
+                            <div class="col">
                                 <h4 class="h2">What is so unique in our Website & Software Development Services?</h4>
 
                                 <p style="text-align: justify;">We at our <strong> Website Development  Company </strong>
@@ -235,7 +235,7 @@
                                     <h3 class="section-title">Looking to Convert your Web Development Idea into a
                                         Leading Business? Talk To a Consultant</h3>
 
-                                    <div class="col-md-6">
+                                    <div class="col">
                                             <div class="ul-icon blue-tick">
                                                 <ul>
                                                     <li>

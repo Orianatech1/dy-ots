@@ -13,21 +13,22 @@
             </div>
         </header>
      <section>
-            <div class="tech-abt-sec">
+     <div class="tech-abt-sec">
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-10 offset-1">
-                                <h1 class="h2"> Modernization</h1>
-                                <p style="font-size: 120%;text-align:justify;">  Modernizing your website is vital to stay competitive in today's digital landscape. By assessing your current site and defining clear goals, you can embark on a journey to enhance its design, functionality, and user experience. Updating the design with modern aesthetics, 
+                            <div class="col">
+                                <h1 class="h2">Modernization</h1>
+                                <p style="text-align:justify;"> Modernizing your website is vital to stay competitive in today's digital landscape. By assessing your current site and defining clear goals, you can embark on a journey to enhance its design, functionality, and user experience. Updating the design with modern aesthetics, 
                                      optimizing content for search engines, and ensuring mobile responsiveness are key steps in this process. Additionally, improving functionality, enhancing security measures, and optimizing for SEO are essential components to consider. Through thorough testing, feedback gathering, and promotional efforts, 
                                      you can successfully launch the updated website. Continuously monitoring performance and iterating based on data insights will help ensure long-term success in engaging your audience and achieving your business objectives.There is a factor of cost cutting in every business. But, the need for moving on with the latest technology is also needed.
-                                     We suggest to constantly updating the website for the marketing point of view. Here is where we step in. We help in modernizing your website according to the latest technology.
-                                 </p>
+                                     We suggest to constantly updating the website for the marketing point of view. Here is where we step in. We help in modernizing your website according to the latest technology.</p>
+                               
                             </div>
                        </div>
                     </div>
                 </div>
+                
             </div>
             <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
@@ -35,31 +36,31 @@
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
                             <h2 class="section-title text-uppercase">What do<br> we provide<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in <br>Modernization ?</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                           
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style: circle;">
+                                <ul style="list-style-type:disc;">
                                     <li>
-                                        <h4><b>Completely analyzing the existing platform and providing with suggestion and strategy for modernization.</b></h4>
+                                        <h4>Completely analyzing the existing platform and providing with suggestion and strategy for modernization.</h4>
                                     </li>
                                     <li>
-                                        <h4><b>Use of the latest technology.</b></h4>
+                                        <h4>Use of the latest technology.</h4>
                                     </li>
                                     <li>
-                                        <h4><b>Giving a new Look and Feel.</b></h4>
+                                        <h4>  Giving a new Look and Feel.  </h4>
                                     </li>
                                     <li>
-                                        <h4><b>Create an eye catching design and develop it accordingly.</b></h4>
+                                        <h4>  Create an eye catching design and develop it accordingly.  </h4>
                                     </li>
                                     <li>
-                                        <h4><b>Regain the same functionalities with a new technology.</b></h4>
+                                        <h4>  Regain the same functionalities with a new technology.  </h4>
                                     </li> 
                                     <li>
-                                        <h4><b>Retain your existing visitors.</b></h4>
+                                        <h4>  Retain your existing visitors.  </h4>
                                     </li>
                                     <li>
-                                        <h4><b>Thorough testing from users.</b></h4>
+                                        <h4>  Thorough testing from users.  </h4>
                                     </li>
                                 </ul>
                             </div>
@@ -75,7 +76,7 @@
                         <h3 class="section-title mb-3">Why go for Modernization </h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick  pb-4">
-                                <ul style="list-style: square;margin-right: 20%;">
+                                <ul style="list-style-type:disc;margin-right: 20%;">
                                     <li>
                                         <h4>Giving something new in order to engage the regular visitors and unique visitors.</h4>
                                     </li>
@@ -88,24 +89,24 @@
                         <h3 class="section-title mb-3">We provide Modernization on the following CMS:</h3>
                          <div class="col-md-12">
                             <div class="ul-icon blue-tick">
-                                <ul style="list-style:circle;">
+                                <ul style="list-style-type:disc;">
                                     <li>
-                                        <h4><b>User Experience (UX) Design</b></h4>
+                                        <h4>  User Experience (UX) Design  </h4>
                                     </li>
                                     <li>
-                                        <h4><b>Performance Optimization</b></h4>
+                                        <h4>  Performance Optimization  </h4>
                                     </li> 
                                     <li>
-                                        <h4><b>Content Management System (CMS) Migration</b></h4>
+                                        <h4>  Content Management System (CMS) Migration  </h4>
                                     </li>
                                     <li>
-                                        <h4><b>Integration of Modern Technologies</b></h4>
+                                        <h4>  Integration of Modern Technologies  </h4>
                                     </li> 
                                     <li>
-                                        <h4><b>Accessibility Compliance</b></h4>
+                                        <h4>  Accessibility Compliance  </h4>
                                     </li>
                                     <li>
-                                        <h4><b>Security Enhancements</b></h4>
+                                        <h4>  Security Enhancements  </h4>
                                     </li>
                                 </ul>
                             </div>
