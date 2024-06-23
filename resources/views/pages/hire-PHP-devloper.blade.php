@@ -12,18 +12,21 @@
             </div>
         </header>
 
-       <div class="tech-abt-sec">
-                <div class="head-sec">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                              <h1 class="h2">Hire PHP Developer OrianaTech Solutions</h1>
-                                <p style=" text-align: justify;">OrianaTech Solutions offers skilled PHP developers ready to elevate your web development projects. Our developers are proficient in leveraging PHP to build robust, scalable, and secure web applications tailored to your unique business needs. With a focus on quality and efficiency, our team delivers top-notch solutions that drive your business forward. Partner with us to harness the power of PHP and achieve your development goals.</p>
-                            </div>
-                       </div>
+        <section>
+                <div class="tech-abt-sec">
+                    <div class="head-sec">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h1 class="h2">Hire PHP Developer</h1>
+                                    <p style="text-align: justify;">
+                                    OrianaTech Solutions offers skilled PHP developers ready to elevate your web development projects. Our developers are proficient in leveraging PHP to build robust, scalable, and secure web applications tailored to your unique business needs. With a focus on quality and efficiency, our team delivers top-notch solutions that drive your business forward. Partner with us to harness the power of PHP and achieve your development goals.
+                                    </p>
+                                </div>
+                           </div>
+                        </div>
                     </div>
                 </div>
-            </div>
             <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
@@ -73,16 +76,23 @@
                 </div>
             </div>
 
+           
+                      
+                
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level PHP applications:</br></h4>
-                      
-                      
-                
-                      <div class="col-lg-6"> <hr>
+                    <div class="col-lg-6 arrow-active">
+                            <h2 class="section-title text-lowercase">
+                            Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level PHP applications:</h2>
+                        </div>
+
+
+
+                        <div class="col-lg-6">
                         <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc; text-align: justify">
+                        <ul style="list-style-type:disc; margin-left: 5%;text-align: justify">
+            
                                 <li>
                                     <p>PHP Frameworks (e.g., Laravel, Symfony, CodeIgniter)</p>
                                 </li>
@@ -90,36 +100,22 @@
                                     <p>MySQL and other Database Systems</p>
                                 </li>
                                 <li>
-                                    <p>Frontend Technologies (HTML5, CSS3, JavaScript)</hp>
+                                    <p>Frontend Technologies-HTML5, CSS3, JavaScript</p>
                                 </li>
                                 <li>
                                     <p>RESTful APIs, Version Control Systems (e.g., Git)</p>
                                 </li>
-                               
+                                <li>
+                                        <p>Dependency Management</p>
+                                    </li>
+                                    <li>
+                                        <p>Testing Frameworks (PHPUnit, Codeception)</p>
+                                    </li>
                                 
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6"> <hr>
-                            <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;text-align: justify; margin-left: 10%;">
-                                    
-                                    
-                                    <li>
-                                        <h4>Dependency Management (Composer)</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Testing Frameworks (PHPUnit, Codeception)</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Containerization (Docker), Continuous Integration and Deployment (CI/CD)</h4>
-                                    </li>
-                                                                    </ul>
-                            </div>
-                        </div>
-                </div>
-            </div>
-        </div>
+                   
                        
                     </div>
                 </div>

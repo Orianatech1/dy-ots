@@ -135,7 +135,7 @@
                                     <li>
                                         <p >SonarQube - For continuous inspection of code quality.</p>
                                     </li><li>
-                                        <p>AWS/Azure - For scalable and secure cloud infrastructure.</p>
+                                        <p>AWS/GCP/Azure - For scalable and secure cloud infrastructure.</p>
                                     </li>
                                     <li>
                                         <p>Firebase -For real-time databases, authentication, and hosting services.</p>

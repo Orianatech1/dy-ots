@@ -78,7 +78,7 @@
             </div>
          <div class="container section-padding ">
               <h3 class="pb-4">Search Engine Optimization Services with OrianaTech Solution</h3>
-                    <p style="text-align: justify">It is widely believed that it is best to leave the implementation of SEO techniques to expert SEO providers. We offer you the most cutting edge SEO technology to assist you in improving your website ranking. We as <strong> SEO Services </strong>Company provide the entire range of Search engine optimization Services that are highly customized to suit your specific requirements.
+                    <p style="text-align: justify,margin-left: 10%;">It is widely believed that it is best to leave the implementation of SEO techniques to expert SEO providers. We offer you the most cutting edge SEO technology to assist you in improving your website ranking. We as <strong> SEO Services </strong>Company provide the entire range of Search engine optimization Services that are highly customized to suit your specific requirements.
                       Feel free to <a href="{{url('/contanct-us')}}"> Contact Us </a>about our Search Engine Optimization Services  needs or Get a <a href=contact-us.html> Free Quote </a> online for the same.</p>
 
             </div>

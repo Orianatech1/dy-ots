@@ -12,18 +12,20 @@
             </div>
         </header>
 
-       <div class="tech-abt-sec">
-                <div class="head-sec">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                              <h1 class="h2">Hire IOS App Developer to build a robust Iphone Application</h1>
-                                <p style=" text-align: justify;">Dreaming of a standout app? Look no further. Hire an iOS developer today to bring your vision to life with rich functionality and robust features. Our developers are dedicated coding enthusiasts, available around the clock. We will design your app layout, develop advanced algorithms for core functionality, ensure compatibility across all iOS versions, and rigorously test the app using both automated and manual tools. Our services include integrating robust features and providing comprehensive app support and maintenance. Let us help you create the perfect iPhone application.</p>
-                            </div>
-                       </div>
+        <div class="tech-abt-sec">
+                    <div class="head-sec">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h1 class="h2">Hire Reactjs Developer</h1>
+                                    <p style="text-align: justify;">
+                                    Dreaming of a standout app? Look no further. Hire an iOS developer today to bring your vision to life with rich functionality and robust features. Our developers are dedicated coding enthusiasts, available around the clock. We will design your app layout, develop advanced algorithms for core functionality, ensure compatibility across all iOS versions, and rigorously test the app using both automated and manual tools. Our services include integrating robust features and providing comprehensive app support and maintenance. Let us help you create the perfect iPhone application.
+                                    </p>
+                                </div>
+                           </div>
+                        </div>
                     </div>
                 </div>
-            </div>
             <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
@@ -32,7 +34,7 @@
                             <h4 class="section-title text-uppercase">Why Hire a IOS developer from OrianaTech Solutions Private Limited?</h4>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style=" margin-left: 20%;">
+                            <div class="ul-icon white-tick" style=" margin-left: 10%;">
                               
                                 <ul style="list-style-type:disc; margin-left: 10%; text-align: justify;">
                                     <li>
@@ -85,15 +87,18 @@
                 </div>
             </div>
 
+         
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify  "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level iOS applications:</br></br></h4>
-                      
+                    <div class="col-lg-6 arrow-active">
+                            <h2 class="section-title text-lowercase">
+                            Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level iOS applications:</h2>
+                        </div>
                 
-                      <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="text-align: justify">
-                            <ul style="list-style-type:disc;text-align: justify;">
+                    <div class="col-lg-6">
+                            <div class="ul-icon white-tick" style="text-align: justify">
+                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
                                 <li>
                                     <p style="text-align: justify">RxSwift - For reactive programming in Swift.</p>
                                 </li>
@@ -109,15 +114,6 @@
                                 <li>
                                     <p style="text-align: justify">SwiftUI - For building user interfaces across all Apple platforms with declarative Swift syntax.</p>
                                 </li>
-                                
-                                
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="text-align: justify">
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
-                                    
                                     <li>
                                         <p style="text-align: justify">Swift - For efficient and powerful native iOS development.</p>
                                     </li>

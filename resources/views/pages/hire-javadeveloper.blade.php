@@ -12,19 +12,23 @@
             </div>
         </header>
 
-       <div class="tech-abt-sec">
-                <div class="head-sec">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                              <h1 class="h2">Hire Java developer OrianaTech Solutions</h1>
-                                <p style=" text-align: justify; ">OrianaTech Solutions Private Limited offers highly skilled Java developers ready to meet your project needs. Our developers have extensive experience in building robust, scalable, and efficient Java applications. Whether you require backend development, enterprise solutions, or web applications, our team delivers top-quality results. Partner with us to leverage our expertise and drive your projects to success.</p>
-                            </div>
-                       </div>
+                                   
+        <div class="tech-abt-sec">
+                    <div class="head-sec">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h1 class="h2">Hire Java Developer</h1>
+                                    <p style="text-align: justify;">
+                                    OrianaTech Solutions Private Limited offers highly skilled Java developers ready to meet your project needs. Our developers have extensive experience in building robust, scalable, and efficient Java applications. Whether you require backend development, enterprise solutions, or web applications, our team delivers top-quality results. Partner with us to leverage our expertise and drive your projects to success.
+                                    </p>
+                                </div>
+                           </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="clearfix"></div>
+        
+       <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
@@ -70,15 +74,17 @@
                     </div>
                 </div>
             </div>
-
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
-                      </h4>
-                      <div class="col-lg-6">
-                        <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc;text-align: justify;">
+                    <div class="col-lg-6 arrow-active">
+                            <h2 class="section-title text-lowercase">
+                            Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</h2>
+                        </div>
+                     
+                    <div class="col-lg-6">
+                            <div class="ul-icon white-tick">
+                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
                                 <li>
                                     <p>Java EE (Enterprise Edition)</p>
                                 </li>
@@ -94,13 +100,6 @@
                                 <li>
                                     <p>Microservices Architecture</p>
                                 </li>  
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                            <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
-                                    
                                     <li>
                                         <p>Java Streams and Functional Programming</p>
                                     </li>

@@ -38,9 +38,10 @@
                             <h2 class="section-title text-uppercase">Our Web Design Services offers</h2>
                             <a class="line-arrow-link" href="/otsfinal/pages/contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
                         </div>
+
                         <div class="col-lg-4">
-                            <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;">
+                                <div class="ul-icon white-tick">
+                                    <ul style="list-style-type:disc;margin-left: 10%">
                                     <li>
                                         <h4>Custom website design</h4>
                                         <p>We build a custom web design that is creative and full of features.</p>
@@ -56,15 +57,7 @@
                                     <li>
                                         <h4>Brochure Designing</h4> 
                                         <p>Astounding Brochure Designing Services for your business to promote your products and services.</p>
-                                    </li>
-                                    
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-4">
-                                <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc;">
-                                                    
+                                    </li>        
                                         <li>
                                             <h4>PSD to XHTML conversion</h4> 
                                             <p>Get the most out of your web design with pixel perfect PSD To XHTML Conversion.</p>

@@ -91,7 +91,6 @@
                 <div class="container">
                     <div class="row">
                                     <h3 class="section-title">Benefits of Using Machine Learning Services:</h3>
-
                                     <div class="col-md-6">
                                         <div class="ul-icon blue-tick mt-5">
                                         <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">

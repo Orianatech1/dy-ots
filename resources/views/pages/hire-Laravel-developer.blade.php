@@ -12,19 +12,22 @@
             </div>
         </header>
 
-       <div class="tech-abt-sec">
-                <div class="head-sec">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                              <h1><b>Hire Laravel Developer</b></h1>
-                              <br>
-                                <p style=" text-align: justify;">OrianaTech Solutions offers skilled Laravel developers ready to elevate your web development projects. Our developers are proficient in leveraging the Laravel framework to build robust, scalable, and secure web applications tailored to your unique business needs. With a focus on quality and efficiency, our team delivers top-notch solutions that drive your business forward. Partner with us to harness the power of Laravel and achieve your development goals.</p>
-                            </div>
-                       </div>
+        <section>
+                <div class="tech-abt-sec">
+                    <div class="head-sec">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h1 class="h2">Hire Laravel Developer</h1>
+                                    <p style="text-align: justify;">
+                                    OrianaTech Solutions offers skilled Laravel developers ready to elevate your web development projects. Our developers are proficient in leveraging the Laravel framework to build robust, scalable, and secure web applications tailored to your unique business needs. With a focus on quality and efficiency, our team delivers top-notch solutions that drive your business forward. Partner with us to harness the power of Laravel and achieve your development goals.
+    
+                                    </p>
+                                </div>
+                           </div>
+                        </div>
                     </div>
                 </div>
-            </div>
             <div class="clearfix"></div>
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
@@ -33,7 +36,7 @@
                             <h2 class="section-title text-uppercase">Why Hire a Laravel Developer from OrianaTech Solutions Private Limited</h2>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style="font-size: 22px; margin-left: 20%;">
+                            <div class="ul-icon white-tick" style="font-size: 22px; margin-left: 10%;">
                               
                                 <ul style="list-style-type:disc">
                                     <li>
@@ -77,11 +80,17 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
-                      </h4>             
-                      <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="text-align: justify">
-                            <ul style="text-align: justify; list-style-type:disc">
+                    <div class="col-lg-6 arrow-active">
+                            <h2 class="section-title text-lowercase">
+                            Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</h2>
+                        </div>
+
+
+
+                        <div class="col-lg-6">
+                            <div class="ul-icon white-tick">
+                                <ul style="list-style-type:disc; margin-left: 5%;text-align: justify">
+            
                                 <li>
                                     <p>PHP, Laravel Framework.</p>
                                 </li>
@@ -92,13 +101,8 @@
                                     <p>Vue.js and Blade Templating Engine. </p>
                                 </li>
 
-                               
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                            <div class="ul-icon white-tick"style="text-align: justify">
-                                <ul style="list-style-type:disc;text-align: justify;">                                    
+
+
 
                                     <li>
                                         <p>RESTful APIs, Docker and Containerization.</p>
@@ -109,16 +113,14 @@
                                     <li>
                                         <p>Continuous Integration and Delivery (CI/CD).</p>
                                     </li>
-                                    
-                                </ul>
-                            </div>
+                          </div>
                         </div>
                 </div>
             </div>
         </div>
-                       
-                    </div>
+
+                  </div>
                 </div>
             </div>
-</section>
+     </section>
         @endsection

@@ -37,7 +37,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left:10%">
                                 <li>
                                         <h4 style="text-align:justify;"> Well-designed apps provide a seamless and enjoyable experience for users, leading to higher satisfaction and retention rates.
 
