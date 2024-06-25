@@ -68,7 +68,7 @@
        <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">Our Offerings:</h3>
+                                    <h3 class="section-title" style="margin-left: 5%;">Our Offerings:</h3>
 
                                     <div class="col-md-4">
                                             <div class="ul-icon blue-tick">

@@ -37,7 +37,7 @@
                 <div class="row mb-4">
                     <div class="col-md-6">
                         <div class="ul-icon blue-tick" >
-                            <ul style="list-style-type:disc;">
+                            <ul style="list-style-type:disc;margin-left: 5%;">
                                 <li>
                                     <h4><b> Custom navigation design that works for every kind of shopper</b></h4>
                                 </li>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-md-6">
                             <div class="ul-icon blue-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4><b>Lightweight CSS based layouts to decrease page-loading time.</b></h4>
                                     </li>
@@ -72,7 +72,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon black-tick" >
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li >
                                         <h4><b>Auction Development</b></h4>
                                         
@@ -112,10 +112,10 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h3 class="mb-4"> Ecommerce Solutions To Make It Perform Better ?  </h3>
+                      <h3 class="mb-4"style="margin-left: 5%;"> Ecommerce Solutions To Make It Perform Better ?  </h3>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" style="font-size: 22px;">
-                            <ul style="list-style-type:disc;">
+                            <ul style="list-style-type:disc;margin-left: 5%;">
                                 <li>
                                     <h4>Optimize Website Speed</h4>
                                 </li>
@@ -132,7 +132,7 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     
                                     
 

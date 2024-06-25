@@ -39,7 +39,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4><b>Unique business model</b></h4>
                                         <p>OrianaTech Solution Pvt Ltd introduces innovative and adaptable business models tailored specifically for website design and development, setting your business apart from competitors.</p>
@@ -66,11 +66,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title"><b>Why Choose Us As A Custom Website Development Company?</b></h3>
+                                    <h3 class="section-title" style="margin-left: 5%;"><b>Why Choose Us As A Custom Website Development Company?</b></h3>
                         <div class="col-md-12">
                             <div class="ul-icon blue-tick">
                                
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <ul></ul>
                                         <h4><b>No compromises in the quality or shortcuts</b></h4>

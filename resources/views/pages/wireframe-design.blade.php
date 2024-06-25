@@ -16,11 +16,12 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
+                        <div class="col"
                         <h1 class="h2 text-center w-100">Wireframe Design</h1>
                         <p style="text-align:justify;">Wireframe design is a critical step in the web and app development process. It involves creating a visual guide that represents the skeletal framework of a website or application. Wireframes focus on the layout and functionality rather than colors, graphics, or detailed content. They help to establish the structure and relationship between the different components of the user interface.</p>
                     </div>
                 </div>
-               
+            </div>
             </div>
         </div>
             <div class="clearfix"></div>
@@ -34,7 +35,7 @@
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc;">
+                                    <ul style="list-style-type:disc;margin-left: 5%;">
                                         <li>
                                             <h4 style="text-align:justify;">Our wireframes provide a clear visual representation of your project's layout and structure, ensuring that all stakeholders understand and agree on the project's requirements from the outset.</h4>
                                           

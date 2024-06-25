@@ -18,6 +18,7 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
+                        <div class="col">
                         <h1 class="h2 text-center w-100"><b>Database Development: What You Need to Know</b></h1>
                         <p style="text-align: justify;">
                             Database development is designing, creating a database or data model, and analyzing requirements and their intents as raw data. Database development aims to create a structure that will allow for the efficient storage and retrieval of data.
@@ -30,7 +31,7 @@
 
                         </p>
 
-                        
+                        </div>
                     </div>
                 </div>
                
@@ -39,7 +40,7 @@
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-5 ">
+                        <div class="col">
                             <h2 class="section-title text-uppercase"><b> Database Development Process </b></h2>
                             <p style="text-align: justify;">
                                 Developing a database involves designing the database, creating the database, and populating the database with data.
@@ -52,7 +53,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;text-align: justify;">
+                                <ul style="list-style-type:disc;text-align: justify;margin-left: 5%;">
                                     <li>
                                         <h4><b>Has proper data integrity</b></h4>
                                         <p style="font-size: 120%;">  When your employees continually feed data in your various databases, they produce well-integrated data. Updating one system should be reflected in the entire database.</p>
@@ -77,13 +78,13 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                        <h3 class="section-title"><b>Benefits of Outsourcing Database Development Services</b></h3>
+                        <h3 class="section-title" style="margin-left: 5%;"><b>Benefits of Outsourcing Database Development Services</b></h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
                                <ul style="list-style-type:disc;text-align: justify;"></ul>
                                 <ul>
                                     <li>
-                                        <ul style="list-style-type:'*'"></ul>
+                                        <ul style="list-style-type:disc;margin-left: 3%;"></ul>
                                         <h4><b></b></h4>
                                     </li>
                                     <li>

@@ -20,12 +20,13 @@
         <div class="container content">
                 <div class="about-block">
                     <div class="row">
+                        <div class="col">
                         <h1 class="h2 text-center w-100">Graphic Designing</h1>
                         <p style="text-align: justify;">Graphic Designing is all about communicating to your target audience via visuals and putting up your brand or business image to the public. It is a very powerful tool that has been widely used by individuals and businesses to broadcast their message to their target market with creative and attract visuals. Our Graphic design services helps in bridging the communication gap between the business and customers.
                         </p>
                     </div>
                 </div>
-               
+                </div>
             </div>
             <div>
                 <br><br>
@@ -41,7 +42,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4>Banner designing</h4>
 
@@ -78,7 +79,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc;">
+                                    <ul style="list-style-type:disc;margin-left: 5%;">
 
                                         <li>
                                             <h4>Brand creation</h4>
@@ -120,7 +121,7 @@
         <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h4 class="section-title">Why Go With Our Graphic Design Services To Get Your Message Across?</h4>
+                                    <h4 class="section-title" style="margin-left: 5%;">Why Go With Our Graphic Design Services To Get Your Message Across?</h4>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
                                                 <ul >

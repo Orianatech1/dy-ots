@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;text-align: justify;">
+                                <ul style="list-style-type:disc;text-align: justify;margin-left: 5%;">
                                     <li>
                                         <h4><b>Access Control & Office 365</b></h4>
                                         <p style="font-size: 120%;"> Access management on all levels with granular custom permissions. Use Okta or Microsoft Entra ID (Active Directory) for central user management. Create groups of collaborators to share to many people at once! Work collaboratively in Office 365 apps.</p>
@@ -70,7 +70,7 @@
                         <h3 class="section-title"><b>Purpose of a Quality and Manufacturing Document Management System</b></h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
-                               <ul style="list-style-type:'*'"></ul>
+                               <ul style="list-style-type:disc;margin-left: 5%;"></ul>
                                 <ul>
                                     <li>
                                         <ul style="list-style-type:'*'"></ul>

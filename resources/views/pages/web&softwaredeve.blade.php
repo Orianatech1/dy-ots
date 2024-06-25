@@ -19,7 +19,7 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div>
+                        <div class="col">
                                 <h2>Professional Web & Software Technology Services</h2>
                     <p style="text-align: justify;">OrianaTech Solutions is a leading <strong> Web & Software </strong>
                         development company in Pune which provides operational and functional web & software development services.
@@ -45,15 +45,13 @@
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
-                            <h2>Our Moto:
+                            <h2 style="margin-left: 5%;">Our Moto:
                                 Deliver Web & Software Within Deadline Without Defect
                             Our Web & software development services include:</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span>
-                                <span class="link-text">Contact us now</span></span></a>
-
+                            
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <p>Mobile Application Development</p>
                                     </li>
@@ -72,7 +70,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type: disc;">
+                                    <ul style="list-style-type: disc;margin-left: 5%;">
 
                                         <li>
                                             <p>Upgrading the Application</p>
@@ -119,7 +117,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col">
-                                <h4 class="h2">What is so unique in our Website & Software Development Services?</h4>
+                                <h4 class="h2" style="margin-left: 5%;">What is so unique in our Website & Software Development Services?</h4>
 
                                 <p style="text-align: justify;">We at our <strong> Website Development  Company </strong>
                                     harness the latest technologies for our Website Development Services,
@@ -152,10 +150,10 @@
        <div class="tech-feature section-padding tech-abt-sec">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">List of Web & Software Development Services Tailored to
+                                    <h3 class="section-title" style="margin-left: 5%;">List of Web & Software Development Services Tailored to
                                         Your Business Needs</h3>
 
-                                    <div class="col-md-6">
+                                    <div class="col">
                                             <div class="ul-icon blue-tick">
                                                 <ul>
                                                     <li>
@@ -232,7 +230,7 @@
                 <div class="tech-feature section-padding bg-blue text-white">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">Looking to Convert your Web Development Idea into a
+                                    <h3 class="section-title" style="margin-left: 5%;">Looking to Convert your Web Development Idea into a
                                         Leading Business? Talk To a Consultant</h3>
 
                                     <div class="col">

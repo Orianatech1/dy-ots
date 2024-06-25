@@ -17,6 +17,7 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
+                        <div class="col">
                         <h1 class="h2 text-center w-100">Custom Software Development</h1>
                         <p style="text-align: justify;">Custom software development involves the creation of tailored software solutions designed to meet the specific needs and requirements of a particular business or organization. 
                             Unlike off-the-shelf software packages that offer generic functionality, custom software is built from the ground up, taking into account the unique processes, workflows, and challenges of the client. The development process typically begins with detailed requirements gathering, where the development team collaborates closely with stakeholders to understand their objectives and specifications.
@@ -25,15 +26,15 @@
                         </p>
                     </div>
                 </div>
-               
+                </div>
             </div>
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
                       <h3 class="mb-4"> custom-software-development Service </h3>
                       <div class="col-lg-7">
-                        <div class="ul-icon white-tick" style="font-size: 22px;">
-                            <ul style="list-style-type:disc;text-align: justify;">
+                        <div class="ul-icon white-tick" style="font-size: 22px;margin-left: 5%;">
+                            <ul style="list-style-type:disc;text-align: justify;margin-left: 5%;">
                              <ul></ul>   
                             <li>
                                         <h4>Project management</h4>
@@ -51,7 +52,7 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:disc;text-align: justify;">
+                                <ul style="list-style-type:disc;text-align: justify;margin-left: 5%;">
                                 <li>
                                         <h4>software Integration Service</h4>
                                     </li>

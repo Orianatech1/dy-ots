@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4>Custom website design</h4>
                                         <p>We build a custom web design that is creative and full of features.</p>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc;">
+                                    <ul style="list-style-type:disc;margin-left: 5%;">
                                                     
                                         <li>
                                             <h4>PSD to XHTML conversion</h4> 

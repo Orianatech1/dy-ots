@@ -40,7 +40,7 @@
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4>Completely analyzing the existing platform and providing with suggestion and strategy for modernization.</h4>
                                     </li>
@@ -76,7 +76,7 @@
                         <h3 class="section-title mb-3">Why go for Modernization </h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick  pb-4">
-                                <ul style="list-style-type:disc;margin-right: 20%;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4>Giving something new in order to engage the regular visitors and unique visitors.</h4>
                                     </li>
@@ -89,7 +89,7 @@
                         <h3 class="section-title mb-3">We provide Modernization on the following CMS:</h3>
                          <div class="col-md-12">
                             <div class="ul-icon blue-tick">
-                                <ul style="list-style-type:disc;">
+                                <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                         <h4>  User Experience (UX) Design  </h4>
                                     </li>

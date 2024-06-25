@@ -39,7 +39,7 @@
                             <h3 class="section-title" >Advantages Of Android Apps Development!</h3>
                         </div>
                         <div class="col-lg-4">
-                            <div class="ul-icon white-tick">
+                            <div class="ul-icon white-tick" style="margin-left: 5%;">
                             <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>An open source platform.</h4>
@@ -73,7 +73,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <div class="ul-icon white-tick">
+                            <div class="ul-icon white-tick" style="margin-left: 5%;">
                             <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4 style="text-align: justify">Comparatively low investment.</h4>

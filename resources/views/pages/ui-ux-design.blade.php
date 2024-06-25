@@ -16,11 +16,12 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
+                        <div class="col">
                         <h1 class="h2 text-center w-100">UI/UX Design </h1>
                         <p style="text-align:justify;">UI (User Interface) and UX (User Experience) design are crucial elements in creating effective and engaging digital products. UI design focuses on the visual aspects of a product. UX design is about enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction with the product. </p>
                     </div>
                 </div>
-               
+                </div>
             </div>
             <br><br>
             <div class="clearfix"></div>
@@ -34,7 +35,7 @@
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc;">
+                                    <ul style="list-style-type:disc;margin-left: 5%;">
                                     <li>
                                             <h4 style="text-align: justify;">Improved User Satisfaction.</h4>
                                           

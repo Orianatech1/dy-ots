@@ -40,7 +40,7 @@
                             </div>
                             <div class="col-lg-7">
                                 <div class="ul-icon white-tick">
-                                    <ul  style="list-style:disc;">
+                                    <ul  style="list-style:disc;margin-left: 5%;">
                                         <li>
                                             <h4><b>Advanced Security</b></h4>
                                             <p style="text-align: justify;">Just as important as how well it works, is how well protected it is. Whether it is business data or data belonging to customers, any information collected by a SaaS application will be important and incredibly confidential. As such, it is important to have the proper security protections. </p>
@@ -72,7 +72,7 @@
                             <div class="col-md-12">
                                 <div class="ul-icon blue-tick">
 
-                                    <ul style="list-style-type:disc; margin-left: 6%;text-align: justify; margin-top: 4%;" >
+                                    <ul style="list-style-type:disc; margin-left: 5%;text-align: justify; margin-top: 4%;" >
                                         <li>
                                             <h4>Saas</b></h4>
                                                 <p style="text-align: justify;"><b> SaaS (Software as a Service):</b> A software distribution model where applications are hosted by a service provider and made available to customers over the internet.</p>

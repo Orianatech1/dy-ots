@@ -16,13 +16,14 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
+                        <div class="col">
                         <h1 class="h2 text-center w-100">Customer Relationship Management software Development</h1>
                         <p style="text-align: justify;" >In today's competitive business landscape, fostering strong relationships with customers is essential for success. Customer Relationship Management (CRM) software plays a pivotal role in managing interactions, streamlining processes, and driving growth.
                              However, off-the-shelf CRM solutions often lack the flexibility and customization needed to meet the diverse needs of businesses. That's where custom CRM software development comes into play.
                             At Orianatech-solutions pvt Ltd, we specialize in developing tailored CRM solutions that empower businesses to build lasting connections with their customers.
                             Our experienced team of developers collaborates closely with you to understand your unique business processes, challenges, and goals, ensuring that the final product aligns seamlessly with your requirements.
                         </p>
-                        
+                        </div>
                     </div>
                 </div>
             </div>
@@ -31,7 +32,7 @@
                     <div class="row">
                     <!--  <h3 class="mb-4"> Ecommerce Solutions To Make It Perform Better ?  </h3>-->
                       <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 22px;">
+                        <div class="ul-icon white-tick" style="font-size: 22px;margin-left: 5%;">
                             <ul style="list-style-type: disc;text-align: justify;">
                                 <li>
                                     <h4>Address Unique Requirements</h4>
@@ -48,8 +49,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:square;text-align: justify;">
+                            <div class="ul-icon white-tick" style="font-size: 22px;margin-left: 5%;">
+                                <ul style="list-style-type:disc;text-align: justify;">
                                     
                                     <li>
                                         <h4>Gain Competitive Advantage</h4>
