@@ -21,7 +21,7 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-20 offset-0.5">
+                            <div class="col-md-12 offset-0.5">
                                 <h1 class="h2" style="margin-right: 4%;">Hire Android App Developer</h1>
 
                             <p style=" text-align: justify;">OrianaTech Solution Private Limited is seeking a highly skilled iOS App Developer to join our dynamic team. The ideal candidate will be responsible for developing robust and innovative iPhone applications that enhance user experience and meet client needs. As part of our team, you will collaborate with designers, project managers, and other developers to create top-notch mobile solutions. If you are passionate about iOS development and have a strong track record of building high-quality apps, we would love to hear from you.</p><!--</span>-->
@@ -42,7 +42,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc">
+                            <ul style="list-style-type:disc;margin-left: 10%">
                                     <li>
                                         <p >Expertise and Experience.</p>
                                     </li>
@@ -86,12 +86,13 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify; "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</br></br></h4>
+                      <h6 class="mb-6" style="text-align: justify; "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</br></h6>
 
 
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc;text-align: justify">
+                        <br>
+                        <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                 <li>
                                     <p style="text-align: justify">Java - The traditional and robust language for Android development.</p>
                                 </li>
@@ -130,6 +131,7 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick">
+                                <br>
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
 
                                     <li>

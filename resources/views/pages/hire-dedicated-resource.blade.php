@@ -20,10 +20,10 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-20 offset-0.5">
+                            <div class="col-md-12 offset-0.5">
                             <h1><b>HIRE DEDICATED RESOURCES</b></h1>
                              <br>
-                                <p style=" text-align: justify;"><strong>If you are in need of dedicated resources or a team, Oriana Tech Solutions Private Limited is the ideal partner for your needs.</strong>
+                                <p style=" text-align: justify;">If you are in need of dedicated resources or a team, Oriana Tech Solutions Private Limited is the ideal partner for your needs.
                                 We offer highly skilled professionals at competitive prices to meet your specific requirements. Our dedicated resources provide 24/7 support via email and instant messaging, ensuring you are always connected. You will receive regular progress reports and updates, with our team focusing exclusively on your project and addressing all your queries with efficient solutions.</p>
                             </div>
                        </div>
@@ -37,13 +37,13 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 arrow-active">
-                            <h2 class="section-title text-uppercase">Dedicated Resources from OrianaTech Solutions?</h2>
+                            <h2 class="section-title text-uppercase"> Hire Dedicated Resources from OrianaTech Solutions?</h2>
                         </div>
                         <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 20px;">
+                            <div class="ul-icon white-tick">
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
                                     <li>
-                                        <H4><a href="hire-dedicated-designer.html" style="color:#fff;"><b>Hire Dedicated Designer</b></a></H4>
+                                        <h4><b>Hire Dedicated Designer</b></H4>
                                         <p style="text-align: justify">Our skilled professionals provide you with a high quality and the design with an extra edge so that you stand in the more creative way as compared to your competitor’s </p>
                                     </li>
                                     <li>
@@ -52,7 +52,7 @@
                                         <p style="text-align: justify">Our dedicated developers will first discuss with you all your requirements and also will suggest the best way to implement it and drive more traffic to your website.</p>
                                     </li>
                                     <li>
-                                        <h4> <a href="hire-dedicated-seo-expert.html" style="color:#fff;"><b>Hire Dedicated SEO Expert</b> </a></h4>
+                                        <h4><b>Hire Dedicated SEO Expert</b></h4>
                                         <p style="text-align: justify">Our dedicated SEO experts will help you to gain higher visibility on major search engines with the best strategies and also you can be rest assured for the quality.</p>
                                     </li>
                                     <li>
@@ -72,10 +72,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h2 class="mb-4" style="text-align: justify">Hiring dedicated resources from OrianaTech Solutions Pvt. Limited offers numerous advantages:</h2>
+                      <h5 class="mb-5" style="text-align: justify"><b>Hiring dedicated resources from OrianaTech Solutions Pvt. Limited offers numerous advantages:</b></h5><br>
                       <div class="col-lg-12">
                         <div class="ul-icon white-tick" style="text-align: justify">
-                            <ul style="list-style-type:disc; text-align: justify;">
+                        <br>
+                        <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
                                 <li>
                                     <h4 style="text-align: justify"><b>Expertise and Proficiency</b></h4></br>
 

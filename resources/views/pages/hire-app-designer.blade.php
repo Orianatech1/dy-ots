@@ -20,7 +20,7 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-20 offset-0.5">
+                            <div class="col-md-12 offset-0.5">
                                 <h1 class="h2">Hire Mobile App Designer </h1>
                                 <p style=" text-align: justify;">Our smartphone app designers excel in creating stunning UI/UX designs and wireframes, using the latest cutting-edge tools such as Sketch, Adobe XD, Photoshop, and Figma. With a deep commitment to achieving your business goals, we take app design seriously, adhering to the guidelines set by both the Google Play Store and the iOS App Store. Our in-house team specializes in designing visually appealing interfaces for B2B, B2C, and B2E services. Trust us to deliver exceptional app designs that captivate and engage users across all platforms.</p><!--</span>-->
                             </div>
@@ -36,11 +36,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 arrow-active">
-                            <h2 class="section-title text-uppercase">Why Hire Mobile App Designer</br> from OrianaTech Solutions?</h2>
+                            <h2 class="section-title text-uppercase">Why Hire Mobile App Designer from OrianaTech Solutions?</h2>
                         </div>
                         <div class="col-lg-3">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc">
+                            <ul style="list-style-type:disc; margin-left: 10%; text-align: justify">
                                     <li>
                                         <p style="text-align: justify">app designs for both native and cross-platform apps.</p>
                                     </li>
@@ -81,10 +81,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style=" text-align: justify;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level app designe:</br></br></h4>
+                      <h6 class="mb-6" style=" text-align: justify;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level app designe:</br></h6>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick"style="text-align: justify">
-                            <ul style="list-style-type:disc; text-align: justify;">
+                        <br>
+                        <ul style="list-style-type:disc; margin-left: 10%; text-align: justify">
                                 <li>
                                     <p style="text-align: justify">Angular - To create robust single-page applications.</p>
                                 </li>
@@ -113,6 +114,7 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick"style="text-align: justify">
+                            <br>
                                 <ul style="list-style-type:disc; margin-left: 10%; text-align: justify">
 
                                     <li>

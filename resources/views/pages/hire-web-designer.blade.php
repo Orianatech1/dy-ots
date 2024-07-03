@@ -17,8 +17,8 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                                <h1 class="h2" >Hire a Web Designer OrianaTech Solutions</h1>
+                            <div class="col-md-12 offset-0.5">
+                                <h1 class="h2" >Hire a Web Designer</h1>
                                 
                                 
                                 <p style=" text-align: justify;">Are you looking to create a stunning and functional website that stands out from the competition? Oriana Tech Solutions is your go-to partner for exceptional web design services. Our team of expert web designers is committed to bringing your vision to life, ensuring your online presence is not only captivating but also effective in achieving your business goals.</p>
@@ -35,56 +35,30 @@
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-4 arrow-active">
+                        <div class="col-lg-6 arrow-active">
                             <h2 class="section-title text-uppercase" >Why you should hire WEb designer from Orianatech solutions?</h2>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-6">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc; margin-left: 40%;">
+                            <ul style="list-style-type:disc;margin-left: 15%">
                                     <li>
-                                        <p>Expertise and Experience</p>
+                                        <p>Expertise and Experience.</p>
                                     </li>
                                     <li>
-                                        <p>Tailored Solutions</p>
+                                        <p>Tailored Solutions.</p>
                                     </li>
                                     <li>
-                                        <p>Innovative Approach</p>
+                                        <p>Innovative Approach.</p>
                                     </li>
                                     <li>
-                                        <p>SEO Optimization</p>
+                                        <p>SEO Optimization.</p>
                                     </li>
                                     <li>
-                                        <p>Comprehensive Support</p>
+                                        <p>Comprehensive Support.</p>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-4">
-                                <div class="ul-icon white-tick" style="margin-left: 5%;">
-                                    <ul style="list-style-type:disc; margin-left: 10%;">
-                                       
-                                        
-                                    <li>
-                                        <p>Our Services:</p>
-                                    </li>
-                                    <li>
-                                        <p>Custom Website Design</p>
-                                    </li>
-                                    <li>
-                                        <p>Responsive Design</p>
-                                    </li>
-                                    <li>
-                                        <p>E-commerce Solutions</p>
-                                    </li>
-                                    <li>
-                                        <p>UI/UX Design</p>
-                                    </li>
-                                    <li>
-                                        <p>Website Redesign</p>
-                                    </li>
-                                    </ul>
-                                </div>
-                            </div>
                     </div>
                 </div>
             </div>
@@ -92,12 +66,13 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Web designes:</br></br></h4>
+                      <h6 class="mb-6" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Web designes:</br></h6>
                       
                 
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" >
-                            <ul style="list-style-type:disc; text-align: justify">
+                        <br>
+                        <ul style="list-style-type:disc;margin-left: 10%; text-align: justify">
                                 <li>
                                     <p style="text-align: justify">React.js - For creating dynamic and responsive user interfaces.</p>
                                 </li>
@@ -139,6 +114,7 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick">
+                            <br>
                                 <ul style="list-style-type:disc;margin-left: 10%; text-align: justify">
                                     
                                    

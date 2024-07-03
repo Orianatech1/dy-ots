@@ -18,11 +18,11 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-20 offset-0.5">
+                            <div class="col-md-12 offset-0.5">
                                 <h1><b>Hire a WordPress Developer</b></h1>
                                 <br>
                                 
-                                <p style=" text-align: justify;">Are you looking to create a powerful and customizable website using WordPress? Oriana Tech Solutions is here to help! Our team of expert WordPress developers is dedicated to bringing your vision to life, ensuring your online presence is not only captivating but also effective in achieving your business goals.</p><!--</span>-->
+                                <p style=" text-align: justify;">Are you looking to create a powerful and customizable website using WordPress? OrianaTech Solutions is here to help! Our team of expert WordPress developers is dedicated to bringing your vision to life, ensuring your online presence is not only captivating but also effective in achieving your business goals.</p><!--</span>-->
                                 
                             </div>
                        </div>
@@ -38,11 +38,11 @@
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
                             
-                            <h2 class="section-title text-uppercase">Why you should hire an WordPress Developer</h2>
+                            <h2 class="section-title text-uppercase">Why you should hire an WordPress Developer?</h2>
                         </div>
                         <div class="col-lg-4">
-                            <div class="ul-icon white-tick" style=" margin-left: 30%;">
-                                <ul style="list-style-type:disc;margin-left: 20%">
+                            <div class="ul-icon white-tick">
+                                <ul style="list-style-type:disc; margin-left: 15%">
                                     <li>
                                         <p>Expertise and Experience</p>
                                     </li>
@@ -96,10 +96,10 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify">Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level WordPress websites. We leverage the latest tools and frameworks to ensure your website is fast, secure, and scalable.</br> </br></h4>
+                      <h6 class="mb-6" style="text-align: justify">Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level WordPress websites. We leverage the latest tools and frameworks to ensure your website is fast, secure, and scalable.</br> </br></h6>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc ; text-align: justify">
+                            <ul style="list-style-type:disc ;margin-left: 10%; text-align: justify">
                                 <li>
                                     <p style="text-align: justify">WordPress - The core content management system (CMS) that powers the website.</p>
                                 </li>

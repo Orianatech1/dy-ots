@@ -16,8 +16,8 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-20 offset-0.5">
-                              <h1 class="h2">Hire Java developer OrianaTech Solutions</h1>
+                            <div class="col-md-12 offset-0.5">
+                              <h1 class="h2">Hire Java developer</h1>
                                 <p style=" text-align: justify; ">OrianaTech Solutions Private Limited offers highly skilled Java developers ready to meet your project needs. Our developers have extensive experience in building robust, scalable, and efficient Java applications. Whether you require backend development, enterprise solutions, or web applications, our team delivers top-quality results. Partner with us to leverage our expertise and drive your projects to success.</p>
                             </div>
                        </div>
@@ -33,36 +33,36 @@
                         <h2 class="section-title text-uppercase">Why Hire a Java Developer from OrianaTech Solutions Private Limited?</h2>
                         </div>
                         <div class="col-lg-7">
-                            <div class="ul-icon white-tick" style=" margin-left: 20%;">
+                            <div class="ul-icon white-tick">
                               
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;" >
                                     <li>
-                                        <h4>Expertise and Experience</h4>
+                                        <h4>Expertise and Experience.</h4>
                                     </li>
                                     <li>
-                                        <h4>Robust Solutions & Versatility </h4>
+                                        <h4>Robust Solutions & Versatility. </h4>
                                     </li>
                                     <li>
-                                        <h4>secure financial transactions</h4>
+                                        <h4>secure financial transactions.</h4>
                                     </li>
                                     <li>
-                                        <h4>Agile Methodology</h4>
+                                        <h4>Agile Methodology.</h4>
                                     </li>
                                     <li>
-                                        <h4>Collaborative Approach</h4>
+                                        <h4>Collaborative Approach.</h4>
                                     </li>
                                     <li>
-                                        <h4>Timely Delivery & Quality Assurance</h4>
+                                        <h4>Timely Delivery & Quality Assurance.</h4>
                                     </li>
                                     <li>
-                                        <h4>Daily and weekly reports shared</h4>
+                                        <h4>Daily and weekly reports shared.</h4>
                                     </li>
                                     <li>
-                                        <h4>Customized Solutions & Continuous Support</h4>
+                                        <h4>Customized Solutions & Continuous Support.</h4>
                                     </li>
                                    
                                     <li>
-                                        <h4>No hidden fees</h4>
+                                        <h4>No hidden fees.</h4>
                                     </li>
                                 </ul>
                             </div>
@@ -74,42 +74,44 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
-                      </h4>
+                      <h6 class="mb-6" style="text-align: justify;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
+                      </h6>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc;text-align: justify;">
+                            <br>
+                        <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;" >
                                 <li>
-                                    <p>Java EE (Enterprise Edition)</p>
+                                    <p>Java EE (Enterprise Edition).</p>
                                 </li>
                                 <li>
-                                    <p>Spring Framework</p>
+                                    <p>Spring Framework.</p>
                                 </li>
                                 <li>
-                                    <p>Hibernate ORM (Object-Relational Mapping)</p>
+                                    <p>Hibernate ORM (Object-Relational Mapping).</p>
                                 </li>
                                 <li>
-                                    <p>Object-Oriented Programming (OOP)</p>
+                                    <p>Object-Oriented Programming (OOP).</p>
                                 </li>
                                 <li>
-                                    <p>Microservices Architecture</p>
+                                    <p>Microservices Architecture.</p>
                                 </li>  
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick">
+                                <br>
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
                                     
                                     <li>
-                                        <p>Java Streams and Functional Programming</p>
+                                        <p>Java Streams and Functional Programming.</p>
                                     </li>
                                     
                                     <li>
-                                        <p>Spring Boot, RESTful Web Services</p>
+                                        <p>Spring Boot, RESTful Web Services.</p>
                                     </li>
                                     <li>
-                                        <p>Continuous Integration and Delivery (CI/CD)</p>
+                                        <p>Continuous Integration and Delivery (CI/CD).</p>
                                     </li>
 
                                     

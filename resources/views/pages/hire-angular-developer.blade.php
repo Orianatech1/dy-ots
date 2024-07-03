@@ -19,12 +19,10 @@
                 <div class="head-sec">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-15 offset-0.5">
+                            <div class="col-md-12 offset-0.5">
                                 <h1 class="h2">Hire Angular Developer</h1>
                                 <p style="text-align: justify; ">OrianaTechSolution Private Limited is seeking a skilled Angular Developer to join our dynamic team. The ideal candidate will have a strong background in building modern web applications using Angular, a keen eye for detail, and a passion for creating intuitive user interfaces. Responsibilities include developing and maintaining web applications, collaborating with cross-functional teams, and ensuring high performance and responsiveness of applications. If you are innovative, have a problem-solving mindset, and are eager to contribute to a growing tech company, we want to hear from you.</p>
-                                    <p style="text-align: justify;">Key Responsibilities:
-
-                                        Develop and maintain Angular-based web applications.
+                                    <p style="text-align: justify;">Key Responsibilities: Develop and maintain Angular-based web applications.
                                         Collaborate with designers, product managers, and other developers to create high-quality software.
                                         Ensure application performance, responsiveness, and scalability.
                                         Troubleshoot and debug applications.
@@ -42,58 +40,58 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-6 arrow-active">
-                            <h2 class="section-title text-uppercase">Why Hire angular developer from OrianaTech Solutions Private Limited</h2>
+                            <h2 class="section-title text-uppercase">Why Hire angular developer from OrianaTech Solutions Private Limited?</h2>
                         </div>
                         <div class="col-lg-3">
-                            <div class="ul-icon white-tick" style="font-size: 22px;">
-                                <ul style="list-style-type:disc">
+                            <div class="ul-icon white-tick">
+                            <ul style="list-style-type:disc;margin-left: 10%">
                                     <li>
-                                        <p>Expertise and Experience</p>
+                                        <p>Expertise and Experience.</p>
                                     </li>
                                     <li>
-                                        <p>Custom Solutions</p>
+                                        <p>Custom Solutions.</p>
                                     </li>
                                     <li>
-                                        <p>Cutting-Edge Technologies</p>
+                                        <p>Cutting-Edge Technologies.</p>
                                     </li>
                                     <li>
-                                        <p>SEO-Friendly Development</p>
+                                        <p>SEO-Friendly Development.</p>
                                     </li>
                                     <li>
-                                        <p>Responsive Design</p>
+                                        <p>Responsive Design.</p>
                                     </li>
                                     <li>
-                                        <p>Performance Optimization</p>
+                                        <p>Performance Optimization.</p>
                                     </li>
                                     <li>
-                                        <p>Security</p>
+                                        <p>Security.</p>
                                     </li>
                                     <li>
-                                        <p>Comprehensive Support</p>
+                                        <p>Comprehensive Support.</p>
                                     </li>
                                     <li>
-                                        <p>Agile Methodology</p>
+                                        <p>Agile Methodology.</p>
                                     </li>
                                     <li>
-                                        <p>Competitive Pricing
+                                        <p>Competitive Pricing.</p>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-lg-3">
-                                <div class="ul-icon white-tick" style="font-size: 22px;">
+                                <div class="ul-icon white-tick">
                                     <ul style="list-style-type:disc; margin-left: 10%;">
 
                                     <li>
-                                        <p>24/7 support and maintenance</p>
+                                        <p>24/7 support and maintenance.</p>
                                     </li>
                                     <li>
-                                        <p>Post-Development Support</p>
+                                        <p>Post-Development Support.</p>
                                     </li>
                                     <li>
-                                        <p>Drive active traffic to your website or store</p>
+                                        <p>Drive active traffic to your website or store.</p>
                                     </li>
                                     <li>
-                                        <p>Competitive Pricing & Client-Centric Approach</p>
+                                        <p>Competitive Pricing & Client-Centric Approach.</p>
                                     </li>
                                     </ul>
                                 </div>
@@ -105,12 +103,13 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h4 class="mb-4" style="text-align: justify;  "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Angular applications:</br></br></h4>
+                      <h6 class="mb-6" style="text-align: justify;  "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level Angular applications:</br></h6>
 
 
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc;text-align: justify;">
+                            <br>
+                            <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
                                 <li>
                                     <p style="text-align: justify">Angular CLI - For efficient scaffolding, development, and maintenance of Angular applications.</p>
                                 </li>
@@ -149,6 +148,7 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick">
+                                <br>
                                 <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
 
                                     <li>
