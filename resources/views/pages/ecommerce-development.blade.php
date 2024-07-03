@@ -68,7 +68,7 @@
                     <div class="row">
                         <div class="col-lg-5 arrow-active">
                             <h2 class="section-title text-uppercase" style="font: size 300%; text-align: left; margin-top: 10%;">Our Ecommerce Development Solutions Expertise Lies In</h2>
-                            <a class="line-arrow-link" href="contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                            
                         </div>
                         <div class="col-lg-7">
                             <div class="ul-icon black-tick" >

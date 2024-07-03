@@ -21,10 +21,7 @@
                     <div class="col">
                         <h1 class="h2 text-center w-100">What Is Development of ERP ?</h1>
                         <p style="text-align: justify;"> Development of ERP entails designing and constructing a software system that integrates various business processes and functions into a unified platform. It involves creating modules for different 
-                            departments, such as finance, human resources, inventory management, and production, to enhance an organization’s operational efficiency and data management.
-
-
-                        </p>
+                            departments, such as finance, human resources, inventory management, and production, to enhance an organization’s operational efficiency and data management.</p>
                     </div>
                     </div>
                 </div>

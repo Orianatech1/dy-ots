@@ -77,7 +77,7 @@
                                 <p class="highlight-txt text-uppercase">Employee</p>
                                 <div class="hidden-content">
                                     <p>Full-Stack Developer</p>
-                                    <!--<a href="#" class="btn btn-outline-white mt-2">Read more</a>-->
+                                   
                                 </div>
                             </div>
                         </div><hr>

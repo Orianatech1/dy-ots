@@ -43,7 +43,7 @@
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick" style="margin-left: 5%;">
                               
-                                <ul style="list-style-type:disc;">
+                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>Complete understanding of your business and providing with the best suggestion of CMS</h4>
                                        
@@ -117,6 +117,9 @@
                              </ul>
                         </div>
                       </div>
+                    </div>
+                </div>
+            </div>
         </section>
         
         @endsection

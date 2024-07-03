@@ -33,7 +33,7 @@
                     <div class="row">
                       <h3 class="mb-4"> custom-software-development Service </h3>
                       <div class="col-lg-7">
-                        <div class="ul-icon white-tick" style="font-size: 22px;margin-left: 5%;">
+                        <div class="ul-icon white-tick" style="font-size: 22px;">
                             <ul style="list-style-type:disc;text-align: justify;margin-left: 5%;">
                              <ul></ul>   
                             <li>
@@ -50,7 +50,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-7">
                             <div class="ul-icon white-tick" style="font-size: 22px;">
                                 <ul style="list-style-type:disc;text-align: justify;margin-left: 5%;">
                                 <li>

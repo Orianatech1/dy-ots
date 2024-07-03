@@ -45,7 +45,7 @@
             <div class="tech-feature bg-blue section-padding text-white">
                 <div class="container">
                     <div class="row">
-                            <h2 style="margin-left: 5%;">Our Moto:
+                            <h2 style="margin-left: 1%;">Our Moto:
                                 Deliver Web & Software Within Deadline Without Defect
                             Our Web & software development services include:</h2>
                             
@@ -96,11 +96,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col">
-                                <h3>We at OrianaTech Solutions Specialise in Creating sites
+                                <h3 >We at OrianaTech Solutions Specialise in Creating sites
                                     and Software that leads to Higher conversion/Sales</h3>
-
-
-
                                 <p style="text-align: justify;">Website with the right functionality and features can assist your
                                     online business to grow to the next level and get maximum return on investment.</p>
                                 <p style="text-align: justify;">"Websites should look good from the inside and out" , that 's what we at OrianaTech
@@ -230,10 +227,10 @@
                 <div class="tech-feature section-padding bg-blue text-white">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title" style="margin-left: 5%;">Looking to Convert your Web Development Idea into a
+                        <h3 class="section-title" style="margin-left: 5%;">Looking to Convert your Web Development Idea into a
                                         Leading Business? Talk To a Consultant</h3>
 
-                                    <div class="col">
+                                        <div class="col">
                                             <div class="ul-icon blue-tick">
                                                 <ul>
                                                     <li>
@@ -251,7 +248,11 @@
                                                         <p>Drupal is a user-friendly open-source CMS which gives the users the
                                                             flexibility to publish, manage and share content in a very easy way.</p>
                                                     </li>
-                                                </ul></div>
-                                    </div></div>
-                </div></div>
-                                               @endsection
+                                                </ul>
+                                            </div>
+                                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+            @endsection

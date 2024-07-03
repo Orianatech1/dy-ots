@@ -21,12 +21,12 @@
                                 <p style="text-align: justify">OrianaTech Solutions: SEO Services with Proven Results - Be Found When People Search Online.
 
                                 SEO is one of the most efficient methods of internet marketing, making your online business visible to a massive audience.
-                               
+                            
                                 SEO services help a website achieve higher rankings in search results by enhancing the quantity and quality of traffic it receives. 
-                         
+                        
                                 </p>
                             </div>
-                       </div>
+                    </div>
                     </div>
                 </div>
 
@@ -61,7 +61,7 @@
                                     <li>
                                         <h4>SMO Social Media Optimization.</h4>
                                     </li>
-                                   
+                                
                                     <li>
                                         <h4>Video SEO optimization.</h4>
                                     </li>
@@ -69,18 +69,18 @@
                                         <h4>Blog, Classified ad, Forum postings.</h4>
                                     </li>
 
-                                   
+                                
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-         <div class="container section-padding ">
-              <h3 class="pb-4">Search Engine Optimization Services with OrianaTech Solution</h3>
+        <div class="container section-padding ">
+            <h3 class="pb-4">Search Engine Optimization Services with OrianaTech Solution</h3>
                     <p style="text-align: justify">It is widely believed that it is best to leave the implementation of SEO techniques to expert SEO providers. We offer you the most cutting edge SEO technology to assist you in improving your website ranking. We as <strong> SEO Services </strong>Company provide the entire range of Search engine optimization Services that are highly customized to suit your specific requirements.
-                      Feel free to <a href="{{url('/contanct-us')}}"> Contact Us </a>about our Search Engine Optimization Services  needs or Get a <a href=contact-us.html> Free Quote </a> online for the same.</p>
+                    Feel free to <a href="{{url('/contanct-us')}}"> Contact Us </a>about our Search Engine Optimization Services  needs or Get a <a href=contact-us.html> Free Quote </a> online for the same.</p>
 
             </div>
         </section>
- @endsection
+@endsection

@@ -48,7 +48,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
-                                <ul>
+                                <ul style="padding: right 5px; list-style-type:disc ;margin-left: 5%;">
                                     <li>
                                         <h4>SEO On-page & Off-page Optimization</h5>
                                         <p>Be found when your customers are searching! On-page & off-page optimization of websites is critical.</p>

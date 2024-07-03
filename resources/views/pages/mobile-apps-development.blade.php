@@ -19,11 +19,12 @@
             <div class="container content">
                 <div class="about-block">
                     <div class="row">
+                        <div class="col">
                         <h1 class="h2 text-center w-100">Mobile App Development </h1>
                         <p style="text-align: justify">At OrienaTech Solution Private Limited, we specialize in creating high-quality mobile applications tailored to meet the unique needs of our clients. Our comprehensive approach ensures a seamless process from concept to deployment, leveraging our expertise to deliver exceptional mobile experiences.</p>
                     </div>
                 </div>
-               
+                </div>
             </div>
             <div>
                 <br><br>

@@ -30,9 +30,8 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                    <!--  <h3 class="mb-4"> Ecommerce Solutions To Make It Perform Better ?  </h3>-->
-                      <div class="col-lg-6">
-                        <div class="ul-icon white-tick" style="font-size: 22px;margin-left: 5%;">
+                    <div class="col-lg-6">
+                        <div class="ul-icon white-tick" >
                             <ul style="list-style-type: disc;text-align: justify;">
                                 <li>
                                     <h4>Address Unique Requirements</h4>
@@ -49,23 +48,24 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                            <div class="ul-icon white-tick" style="font-size: 22px;margin-left: 5%;">
-                                <ul style="list-style-type:disc;text-align: justify;">
+                        <div class="ul-icon white-tick" >
+                            <ul style="list-style-type:disc;text-align: justify;">
                                     
-                                    <li>
-                                        <h4>Gain Competitive Advantage</h4>
-                                    </li>
-                                    <li>
-                                        <h4>Scalability and Flexibility</h4>
-                                    </li>
+                                <li>
+                                    <h4>Gain Competitive Advantage</h4>
+                                </li>
+                                <li>
+                                    <h4>Scalability and Flexibility</h4>
+                                </li>
                                     
-                                </ul>
-                            </div>
+                            </ul>
                         </div>
+                    </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        </header>
+        
      <section>
         @endsection

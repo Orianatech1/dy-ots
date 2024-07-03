@@ -20,11 +20,11 @@
                 </div>
 
                 <h4> Work Culturess</h4>
-                <p>At OrianaTech Solution Pvt
+                <p style="text-align: justify">At OrianaTech Solution Pvt
                     Ltd, we are deeply committed to our business while maintaining a relaxed and casual workplace
                     atmosphere. Our diverse team collaborates to create an exceptional work environment, making
                     OrianaTech Solution an awesome place to be.</p>
-                <p>The team at OrianaTech Solution Pvt Ltd consists of
+                <p style="text-align: justify">The team at OrianaTech Solution Pvt Ltd consists of
                     top-tier professionals, including designers, developers, marketers, communication specialists, app
                     developers, project managers, and business developers, all of whom are among the finest in the
                     industry. Our talented members collaborate closely, sharing their ideas and expertise to deliver
@@ -32,21 +32,21 @@
 
                 </p>
                 <hr>
-                <p>What truly makes OrianaTech Solution Pvt Ltd an
+                <p style="text-align: justify">What truly makes OrianaTech Solution Pvt Ltd an
                     outstanding workplace are the people behind it. Our team members are interesting, enthusiastic, and
                     amicable, making them a joy to be around. Their cheerful demeanor throughout the day contributes to
                     maintaining a vibrant and friendly work environment.
 
                 </p>
 
-                <p>When we say OrianaTech Solution Pvt Ltd is a fun place
+                <p style="text-align: justify">When we say OrianaTech Solution Pvt Ltd is a fun place
                     to work, we truly mean it! We frequently host parties and events for our team, understanding that
                     everyone enjoys having fun both during and after work. Our casual dress code allows you to wear
                     whatever is most comfortable for you while working.
 
                 </p>
                 <hr>
-                <p>If you feel that you can fit in our family and grow
+                <p >If you feel that you can fit in our family and grow
                     with us then have a look at our Current Openings.
 
                 </p>

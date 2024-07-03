@@ -36,7 +36,7 @@
                     <div class="row">
                         <div class="col-lg-4 arrow-active">
                             <h2 class="section-title text-uppercase">Our Web Design Services offers</h2>
-                            <a class="line-arrow-link" href="/otsfinal/pages/contact-us.html"><span><span class="link-text">Contact us now</span></span></a>
+                            
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick">
