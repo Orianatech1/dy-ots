@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="ul-icon white-tick">
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
+                                <ul style="list-style-type:disc; margin-left: 5%;text-align: justify;">
                                     <li>
                                         <h4><b>Hire Dedicated Designer</b></H4>
                                         <p style="text-align: justify">Our skilled professionals provide you with a high quality and the design with an extra edge so that you stand in the more creative way as compared to your competitor’s </p>
@@ -72,11 +72,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h5 class="mb-5" style="text-align: justify"><b>Hiring dedicated resources from OrianaTech Solutions Pvt. Limited offers numerous advantages:</b></h5><br>
+                      <h5 class="mb-5" style="text-align: justify;margin-left: 1%; margin-right:1%;"><b>Hiring dedicated resources from OrianaTech Solutions Pvt. Limited offers numerous advantages:</b></h5><br>
                       <div class="col-lg-12">
                         <div class="ul-icon white-tick" style="text-align: justify">
                         <br>
-                        <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
+                        <ul style="list-style-type:disc; margin-left: 5%;text-align: justify;">
                                 <li>
                                     <h4 style="text-align: justify"><b>Expertise and Proficiency</b></h4></br>
 

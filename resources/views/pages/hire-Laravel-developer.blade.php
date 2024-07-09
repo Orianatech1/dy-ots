@@ -77,11 +77,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h6 class="mb-6" style="text-align: justify"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
+                      <h6 class="mb-6" style="text-align: justify;margin-left: 1%; margin-right:1%;"> Our team of developers is proficient in utilizing a range of cutting-edge technologies essential for crafting high-level Laravel solutions.</br></br>
                       </h6>             
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" style="text-align: justify">
-                        <ul style="list-style-type:disc ;margin-left: 10%; text-align: justify">
+                        <ul style="list-style-type:disc ;margin-left: 5%; text-align: justify">
                                 <li>
                                     <p>PHP, Laravel Framework.</p>
                                 </li>
@@ -98,7 +98,7 @@
                     </div>
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick"style="text-align: justify">
-                            <ul style="list-style-type:disc ;margin-left: 10%; text-align: justify">                                    
+                            <ul style="list-style-type:disc ;margin-left: 5%; text-align: justify">                                    
 
                                     <li>
                                         <p>RESTful APIs, Docker and Containerization.</p>

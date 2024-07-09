@@ -41,7 +41,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="ul-icon white-tick ">
-                                <ul style="list-style-type:disc;margin-left: 15%">
+                                <ul style="list-style-type:disc;margin-left: 5%">
                                     <li>
                                         <p style="text-align: justify;">Growth in organic reach by 150 percent on Facebook & Instagram.</p>
                                     </li>
@@ -59,7 +59,7 @@
                         </div>
                         <div class="col-lg-4">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc; margin-left: 15%;">
+                                    <ul style="list-style-type:disc; margin-left: 5%;">
                                         
                                     <li>
                                         <p style="text-align: justify;">Brand Awareness. We’ll help you create a strong presence online to connect with your target audience</p>
@@ -86,10 +86,10 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h6 class="mb-6" style="text-align: justify">Our team of developers is well-versed with the cutting-edge technologies, which are essential for building high-level Social Media Optimization (SMO) solutions:</h6>
+                      <h6 class="mb-6" style="text-align: justify; margin-left:1%; margin-right:1%;">Our team of developers is well-versed with the cutting-edge technologies, which are essential for building high-level Social Media Optimization (SMO) solutions:</h6>
                       <div class="col-lg-12 offset-0.5">
                         <div class="ul-icon white-tick">
-                        <ul style="list-style-type:disc ;margin-left: 10%; text-align: justify">
+                        <ul style="list-style-type:disc ;margin-left: 5%; text-align: justify">
                                 <li>
                                     <p style="text-align: justify"><h4>Content Strategy:</h4></br>
 

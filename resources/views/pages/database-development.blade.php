@@ -81,12 +81,8 @@
                         <h3 class="section-title" style="margin-left: 5%;"><b>Benefits of Outsourcing Database Development Services</b></h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
-                               <ul style="list-style-type:disc;text-align: justify;"></ul>
-                                <ul>
-                                    <li>
-                                        <ul style="list-style-type:disc;margin-left: 3%;"></ul>
-                                        <h4><b></b></h4>
-                                    </li>
+                               <ul style="list-style-type:disc;text-align: justify;margin-left :5%;">
+                               
                                     <li>
                                         <h4><b>Cost Savings:</b></h4>
                                     </li>

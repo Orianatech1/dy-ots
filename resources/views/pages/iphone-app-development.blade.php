@@ -83,7 +83,7 @@
         <div class="tech-feature section-padding">
                  <div class="container">
                     <div class="row">
-                                    <h3><b>Why Choose OrienaTech Solutions Private Limited for iPhone App Development Services?</b></h3>
+                                    <h3 style="margin-left: 1%;"><b>Why Choose OrienaTech Solutions Private Limited for iPhone App Development Services?</b></h3>
                                     <div class="col-md-6">
                                             <div class="ul-icon blue-tick">
                                                 <br><br>

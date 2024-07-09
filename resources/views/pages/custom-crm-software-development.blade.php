@@ -32,7 +32,7 @@
                     <div class="row">
                     <div class="col-lg-6">
                         <div class="ul-icon white-tick" >
-                            <ul style="list-style-type: disc;text-align: justify;">
+                            <ul style="list-style-type: disc;text-align: justify;margin-left: 5%;">
                                 <li>
                                     <h4>Address Unique Requirements</h4>
                                 </li>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="ul-icon white-tick" >
-                            <ul style="list-style-type:disc;text-align: justify;">
+                            <ul style="list-style-type:disc;text-align: justify;margin-left: 5%;">
                                     
                                 <li>
                                     <h4>Gain Competitive Advantage</h4>

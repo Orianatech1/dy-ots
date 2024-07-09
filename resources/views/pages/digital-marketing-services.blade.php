@@ -99,7 +99,7 @@
         <div class="tech-feature section-padding">
             <div class="container">
                 <div class="row">
-                                <h4 class="section-title">Why Choose OrianaTech Solution For Digital Marketing Solutions?
+                                <h4 class="section-title" style="margin-left: 1%;">Why Choose OrianaTech Solution For Digital Marketing Solutions?
                               </h4>
                     <div class="col-md-12">
                         <div class="ul-icon blue-tick">

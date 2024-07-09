@@ -73,7 +73,7 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                        <h3 class="section-title mb-3">Why go for Modernization </h3>
+                        <h5 class="section-title mb-3" style="margin-left: 1%;">Why go for Modernization </h5>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick  pb-4">
                                 <ul style="list-style-type:disc;margin-left: 5%;">
@@ -86,7 +86,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <h3 class="section-title mb-3">We provide Modernization on the following CMS:</h3>
+                        <h5 class="section-title mb-3" style="margin-left: 1%; ">We provide Modernization on the following CMS:</h5>
                          <div class="col-md-12">
                             <div class="ul-icon blue-tick">
                                 <ul style="list-style-type:disc;margin-left: 5%;">

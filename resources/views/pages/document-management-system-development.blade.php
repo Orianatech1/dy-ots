@@ -67,15 +67,11 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                        <h3 class="section-title"><b>Purpose of a Quality and Manufacturing Document Management System</b></h3>
+                        <h3 class="section-title"style="margin-left: 1%;"><b>Purpose of a Quality and Manufacturing Document Management System</b></h3>
                         <div class="col-md-7">
                             <div class="ul-icon blue-tick">
-                               <ul style="list-style-type:disc;margin-left: 5%;"></ul>
-                                <ul>
-                                    <li>
-                                        <ul style="list-style-type:'*'"></ul>
-                                        <h4><b></b></h4>
-                                    </li>
+                               <ul style="list-style-type:disc;margin-left: 5%;">
+                               
                                     <li>
                                         <h4><b>Website Security</b></h4>
                                     </li>

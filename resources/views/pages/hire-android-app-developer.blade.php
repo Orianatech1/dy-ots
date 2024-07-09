@@ -42,7 +42,7 @@
                         </div>
                         <div class="col-lg-3">
                             <div class="ul-icon white-tick">
-                            <ul style="list-style-type:disc;margin-left: 10%">
+                            <ul style="list-style-type:disc;margin-left: 5%">
                                     <li>
                                         <p >Expertise and Experience.</p>
                                     </li>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="col-lg-3">
                                 <div class="ul-icon white-tick">
-                                    <ul style="list-style-type:disc; margin-left: 10%;">
+                                    <ul style="list-style-type:disc; margin-left: 5%;">
 
                                     <li>
                                         <p>24/7 support and maintenance.</p>
@@ -86,13 +86,13 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h6 class="mb-6" style="text-align: justify; "> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</br></h6>
+                      <h6 class="mb-6" style="text-align: justify;margin-left: 1%; margin-right:1%;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level android applications:</br></h6>
 
 
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
                         <br>
-                        <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
+                        <ul style="list-style-type:disc; margin-left: 5%;text-align: justify">
                                 <li>
                                     <p style="text-align: justify">Java - The traditional and robust language for Android development.</p>
                                 </li>
@@ -132,7 +132,7 @@
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick">
                                 <br>
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify">
+                                <ul style="list-style-type:disc; margin-left: 5%;text-align: justify">
 
                                     <li>
                                         <p style="text-align: justify">Firebase - For real-time databases, authentication, cloud messaging, and analytics.</p>

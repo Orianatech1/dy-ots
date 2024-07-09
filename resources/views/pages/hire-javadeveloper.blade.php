@@ -35,7 +35,7 @@
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
                               
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;" >
+                                <ul style="list-style-type:disc; margin-left: 5%;text-align: justify;" >
                                     <li>
                                         <h4>Expertise and Experience.</h4>
                                     </li>
@@ -74,12 +74,12 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h6 class="mb-6" style="text-align: justify;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
+                      <h6 class="mb-6" style="text-align: justify;margin-left: 1%; margin-right:1%;"> Our team of developers are well versed with the  following cutting edge technologies which are required to build a high level java applications.</br></br>
                       </h6>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick">
                             <br>
-                        <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;" >
+                        <ul style="list-style-type:disc; margin-left: 5%;text-align: justify;" >
                                 <li>
                                     <p>Java EE (Enterprise Edition).</p>
                                 </li>
@@ -101,7 +101,7 @@
                     <div class="col-lg-6">
                             <div class="ul-icon white-tick">
                                 <br>
-                                <ul style="list-style-type:disc; margin-left: 10%;text-align: justify;">
+                                <ul style="list-style-type:disc; margin-left: 5%;text-align: justify;">
                                     
                                     <li>
                                         <p>Java Streams and Functional Programming.</p>

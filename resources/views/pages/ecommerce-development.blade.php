@@ -112,7 +112,7 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h3 class="mb-4"style="margin-left: 5%;"> Ecommerce Solutions To Make It Perform Better ?  </h3>
+                      <h3 class="mb-4"style="margin-left: 1%;"> Ecommerce Solutions To Make It Perform Better ?  </h3>
                       <div class="col-lg-6">
                         <div class="ul-icon white-tick" style="font-size: 22px;">
                             <ul style="list-style-type:disc;margin-left: 5%;">

@@ -90,7 +90,7 @@
              <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                                    <h3 class="section-title">Benefits of Using Machine Learning Services:</h3>
+                                    <h3 class="section-title" style="margin-left: 2%;">Benefits of Using Machine Learning Services:</h3>
 
                                     <div class="col-md-6">
                                         <div class="ul-icon blue-tick mt-5">

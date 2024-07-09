@@ -34,7 +34,7 @@
                         <div class="col-lg-7">
                             <div class="ul-icon white-tick">
                               
-                            <ul style="list-style-type:disc;margin-left: 15%">
+                            <ul style="list-style-type:disc;margin-left: 5%">
                                     <li>
                                         <h4>Expertise in PHP Development.</h4>
                                     </li>
@@ -76,12 +76,12 @@
             <div class="tech-feature section-padding">
                 <div class="container">
                     <div class="row">
-                      <h6 class="mb-6" style="text-align: justify"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level PHP applications:</h6>
+                      <h6 class="mb-6" style="text-align: justify;margin-left: 1%; margin-right:1%;"> Our team of developers is well-versed with the following cutting-edge technologies, which are essential for building high-level PHP applications:</h6>
                 
                       <div class="col-lg-6"> <hr>
                         <div class="ul-icon white-tick">
                             
-                        <ul style="list-style-type:disc;margin-left: 15%">
+                        <ul style="list-style-type:disc;margin-left: 5%">
                                 <li>
                                     <p>PHP Frameworks (e.g., Laravel, Symfony, CodeIgniter)</p>
                                 </li>
@@ -102,7 +102,7 @@
                     <div class="col-lg-6"> <hr>
                             <div class="ul-icon white-tick">
                             
-                            <ul style="list-style-type:disc;margin-left: 15%">
+                            <ul style="list-style-type:disc;margin-left: 5%">
                                     
                                     
                                     <li>
