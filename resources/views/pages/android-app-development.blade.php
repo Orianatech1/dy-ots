@@ -20,7 +20,7 @@
                         <div class="row">
                             <div class="col-md-12 offset-0.5">
                                 <h1>Android App Development</h1>
-
+<br>
                                <p style="text-align: justify">Android app development refers to the process of creating mobile applications specifically for devices running the android operating system. Android is one of the most widely used mobile platforms globally, developed by Google and based on the Linux kernel. Android apps are typically written in Java, Kotlin, or a combination of both, using the Android SDK (Software Development Kit) and various development tools provided by Google. The development process involves designing, coding, testing, and deploying applications tailored to meet the specific needs and requirements of Android users.</p>
 
                             </div>
